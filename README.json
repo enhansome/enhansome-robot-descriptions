@@ -1,67 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Robot Descriptions"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Arms"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Bipeds"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Dual Arms"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Drones"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Educational"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "End Effectors"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Humanoids"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Mobile Manipulators"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Quadrupeds"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Wheeled"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Gallery"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -70,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 485431774,
             "language": null,
             "last_commit": "2026-08-03T07:58:45Z",
             "owner": "stephane-caron",
@@ -84,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424941534,
             "language": null,
             "last_commit": "2026-08-05T18:21:25Z",
             "owner": "gbionics",
@@ -93,15 +35,10 @@
         }
       ],
       "title": "Related Awesome Lists"
-    },
-    {
-      "description": "New robot descriptions are welcome! Check out the guidelines, then open a PR.",
-      "items": [],
-      "title": "Add a Description to the List"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:10:41.280Z",
+    "last_updated": "2026-08-19T07:11:27.136Z",
     "original_repository": "robot-descriptions/awesome-robot-descriptions",
     "original_repository_sha": "aad489f75a7e7e85f6a5ae49bb6dc86c32b62a7d",
     "enhanced_repository": "enhansome/enhansome-robot-descriptions",
