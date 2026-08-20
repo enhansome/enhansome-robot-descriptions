@@ -15,7 +15,7 @@
             "last_commit": "2026-08-03T07:58:45Z",
             "owner": "stephane-caron",
             "repo": "awesome-open-source-robots",
-            "stars": 281
+            "stars": 282
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-05T18:21:25Z",
             "owner": "gbionics",
             "repo": "awesome-urdf",
-            "stars": 162
+            "stars": 163
           }
         }
       ],
@@ -38,7 +38,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:49:39.878Z",
+    "last_updated": "2026-08-20T07:12:44.134Z",
     "original_repository": "robot-descriptions/awesome-robot-descriptions",
     "original_repository_id": 478093237,
     "original_repository_sha": "aad489f75a7e7e85f6a5ae49bb6dc86c32b62a7d",
