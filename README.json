@@ -4,6 +4,2872 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "URDF",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139092027,
+                "language": "CMake",
+                "last_commit": "2018-03-01T10:41:59Z",
+                "owner": "ianathompson",
+                "repo": "eDO_description",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BSD-3-Clause",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139092027,
+                "language": "CMake",
+                "last_commit": "2018-03-01T10:41:59Z",
+                "owner": "ianathompson",
+                "repo": "eDO_description",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FR3",
+              "description": "Franka Robotics MJCF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FR3 v2",
+              "description": "Franka Robotics MJCF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gen2",
+              "description": "Kinova URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205108859,
+                "language": "Python",
+                "last_commit": "2026-08-23T18:20:23Z",
+                "owner": "Gepetto",
+                "repo": "example-robot-data",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gen3 Lite",
+              "description": "Kinova URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 390407974,
+                "language": "Python",
+                "last_commit": "2026-07-27T15:21:26Z",
+                "owner": "Kinovarobotics",
+                "repo": "ros2_kortex",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gen3",
+              "description": "Kinova MJCF BSD-2-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 539901250,
+                "language": "CMake",
+                "last_commit": "2026-08-18T15:03:06Z",
+                "owner": "mathieu-celerier",
+                "repo": "kinova_mj_description",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gen3",
+              "description": "Kinova URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160873090,
+                "language": "C++",
+                "last_commit": "2026-01-26T17:38:43Z",
+                "owner": "Kinovarobotics",
+                "repo": "ros_kortex",
+                "stars": 217
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gen3",
+              "description": "Kinova Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 390407974,
+                "language": "Python",
+                "last_commit": "2026-07-27T15:21:26Z",
+                "owner": "Kinovarobotics",
+                "repo": "ros2_kortex",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iiwa 14",
+              "description": "KUKA URDF, MJCF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152971074,
+                "language": "Starlark",
+                "last_commit": "2026-08-17T10:14:23Z",
+                "owner": "RobotLocomotion",
+                "repo": "models",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iiwa 7",
+              "description": "KUKA URDF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 300462600,
+                "language": "Python",
+                "last_commit": "2023-03-22T18:30:01Z",
+                "owner": "facebookresearch",
+                "repo": "differentiable-robot-model",
+                "stars": 265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Koch v1.1",
+              "description": "Alexander Koch MJCF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Koch v1.1",
+              "description": "Alexander Koch URDF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 857132783,
+                "language": null,
+                "last_commit": "2025-02-25T15:10:23Z",
+                "owner": "s1lent4gnt",
+                "repo": "koch-v1-1",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lite 6",
+              "description": "UFACTORY Xacro, MJCF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 377027506,
+                "language": "Python",
+                "last_commit": "2026-08-11T06:22:26Z",
+                "owner": "xArm-Developer",
+                "repo": "xarm_ros2",
+                "stars": 270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Low-Cost Robot Arm",
+              "description": "Alexander Koch URDF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 784610434,
+                "language": "Python",
+                "last_commit": "2025-01-29T01:57:21Z",
+                "owner": "tc-huang",
+                "repo": "low_cost_robot",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "M-710iC",
+              "description": "FANUC URDF, Xacro BSD-3-Clause ✔️ ✖️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 644468267,
+                "language": "CMake",
+                "last_commit": "2023-05-23T16:45:59Z",
+                "owner": "robot-descriptions",
+                "repo": "fanuc_m710ic_description",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Med 14",
+              "description": "KUKA Xacro Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 224664015,
+                "language": "C++",
+                "last_commit": "2026-07-16T19:50:43Z",
+                "owner": "lbr-stack",
+                "repo": "lbr_fri_ros2_stack",
+                "stars": 267
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Med 7",
+              "description": "KUKA Xacro Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 224664015,
+                "language": "C++",
+                "last_commit": "2026-07-16T19:50:43Z",
+                "owner": "lbr-stack",
+                "repo": "lbr_fri_ros2_stack",
+                "stars": 267
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Panda",
+              "description": "Franka Robotics MJCF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Panda",
+              "description": "Franka Robotics URDF, Xacro Apache-2.0 ✔️ ✖️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205108859,
+                "language": "Python",
+                "last_commit": "2026-08-23T18:20:23Z",
+                "owner": "Gepetto",
+                "repo": "example-robot-data",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PiPER",
+              "description": "AgileX MJCF, URDF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Poppy Ergo Jr",
+              "description": "Poppy Project URDF GPL-3.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263158015,
+                "language": "CMake",
+                "last_commit": "2021-09-30T09:55:10Z",
+                "owner": "poppy-project",
+                "repo": "poppy_ergo_jr_description",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MJCF",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apache-2.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Xacro",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1100278081,
+                "language": "Python",
+                "last_commit": "2026-08-14T08:06:39Z",
+                "owner": "flexivrobotics",
+                "repo": "flexiv_description",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apache-2.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1100278081,
+                "language": "Python",
+                "last_commit": "2026-08-14T08:06:39Z",
+                "owner": "flexivrobotics",
+                "repo": "flexiv_description",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sawyer",
+              "description": "Rethink Robotics Xacro, MJCF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60373690,
+                "language": "CMake",
+                "last_commit": "2021-02-08T15:53:35Z",
+                "owner": "RethinkRobotics",
+                "repo": "sawyer_robot",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MJCF",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apache-2.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SO-ARM 100",
+              "description": "The Robot Studio URDF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 798981945,
+                "language": null,
+                "last_commit": "2026-08-05T09:21:21Z",
+                "owner": "TheRobotStudio",
+                "repo": "SO-ARM100",
+                "stars": 7179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MJCF",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apache-2.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UR10",
+              "description": "Universal Robots URDF, Xacro Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205108859,
+                "language": "Python",
+                "last_commit": "2026-08-23T18:20:23Z",
+                "owner": "Gepetto",
+                "repo": "example-robot-data",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UR10e",
+              "description": "Universal Robots MJCF, Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UR3",
+              "description": "Universal Robots URDF, Xacro Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205108859,
+                "language": "Python",
+                "last_commit": "2026-08-23T18:20:23Z",
+                "owner": "Gepetto",
+                "repo": "example-robot-data",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UR3e",
+              "description": "Universal Robots Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8745199,
+                "language": "C++",
+                "last_commit": "2026-07-20T12:26:36Z",
+                "owner": "ros-industrial",
+                "repo": "universal_robot",
+                "stars": 1412
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UR5",
+              "description": "Universal Robots URDF, Xacro Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205108859,
+                "language": "Python",
+                "last_commit": "2026-08-23T18:20:23Z",
+                "owner": "Gepetto",
+                "repo": "example-robot-data",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UR5e",
+              "description": "Universal Robots MJCF, Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ViperX 300",
+              "description": "Trossen Robotics Xacro, MJCF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306430097,
+                "language": "Python",
+                "last_commit": "2025-08-08T20:10:41Z",
+                "owner": "Interbotix",
+                "repo": "interbotix_ros_manipulators",
+                "stars": 183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WidowX 250",
+              "description": "Trossen Robotics MJCF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xArm5",
+              "description": "UFACTORY Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 377027506,
+                "language": "Python",
+                "last_commit": "2026-08-11T06:22:26Z",
+                "owner": "xArm-Developer",
+                "repo": "xarm_ros2",
+                "stars": 270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xArm6",
+              "description": "UFACTORY Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 377027506,
+                "language": "Python",
+                "last_commit": "2026-08-11T06:22:26Z",
+                "owner": "xArm-Developer",
+                "repo": "xarm_ros2",
+                "stars": 270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xArm7",
+              "description": "UFACTORY Xacro, MJCF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 377027506,
+                "language": "Python",
+                "last_commit": "2026-08-11T06:22:26Z",
+                "owner": "xArm-Developer",
+                "repo": "xarm_ros2",
+                "stars": 270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Z1",
+              "description": "UNITREE Robotics URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287439935,
+                "language": "C++",
+                "last_commit": "2026-08-24T06:28:26Z",
+                "owner": "unitreerobotics",
+                "repo": "unitree_ros",
+                "stars": 1533
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Arms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bolt",
+              "description": "ODRI URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205108859,
+                "language": "Python",
+                "last_commit": "2026-08-23T18:20:23Z",
+                "owner": "Gepetto",
+                "repo": "example-robot-data",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BD-X",
+              "description": "Disney URDF MJCF NVIDIA License ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 857527298,
+                "language": "Python",
+                "last_commit": "2025-02-18T18:09:43Z",
+                "owner": "rimim",
+                "repo": "AWD",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cassie",
+              "description": "Agility Robotics URDF, MJCF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 557345293,
+                "language": "CMake",
+                "last_commit": "2022-10-25T16:40:18Z",
+                "owner": "robot-descriptions",
+                "repo": "cassie_description",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OP3",
+              "description": "Robotis MJCF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rhea",
+              "description": "Gabrael Levine URDF MIT ✔️ ✖️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608012206,
+                "language": "Python",
+                "last_commit": "2024-02-21T20:22:25Z",
+                "owner": "G-Levine",
+                "repo": "rhea_description",
+                "stars": 277
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spryped",
+              "description": "Benjamin Bokser URDF GPL-3.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235253478,
+                "language": "Python",
+                "last_commit": "2021-10-12T06:07:44Z",
+                "owner": "bbokser",
+                "repo": "spryped",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Upkie",
+              "description": "Stéphane Caron URDF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 471061195,
+                "language": "Python",
+                "last_commit": "2026-03-11T16:52:47Z",
+                "owner": "upkie",
+                "repo": "upkie_description",
+                "stars": 36
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bipeds"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Baxter",
+              "description": "Rethink Robotics URDF, Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11371241,
+                "language": "CMake",
+                "last_commit": "2018-06-26T19:18:49Z",
+                "owner": "RethinkRobotics",
+                "repo": "baxter_common",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dual iiwa 14",
+              "description": "KUKA URDF, Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152971074,
+                "language": "Starlark",
+                "last_commit": "2026-08-17T10:14:23Z",
+                "owner": "RobotLocomotion",
+                "repo": "models",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NEXTAGE",
+              "description": "Kawada Robotics URDF BSD ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13974308,
+                "language": "C++",
+                "last_commit": "2025-05-09T02:07:47Z",
+                "owner": "tork-a",
+                "repo": "rtmros_nextage",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Poppy Torso",
+              "description": "Pollen Robotics URDF GPL-3.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81379400,
+                "language": "CMake",
+                "last_commit": "2017-02-16T15:09:32Z",
+                "owner": "poppy-project",
+                "repo": "poppy_torso_description",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sciurus17",
+              "description": "RT Corporation Xacro ✖️ ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 688834067,
+                "language": "Python",
+                "last_commit": "2026-07-28T10:36:38Z",
+                "owner": "rt-net",
+                "repo": "sciurus17_description",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YuMi",
+              "description": "ABB URDF BSD-2-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 52382779,
+                "language": "C++",
+                "last_commit": "2019-08-19T08:44:11Z",
+                "owner": "OrebroUniversity",
+                "repo": "yumi",
+                "stars": 80
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dual Arms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Crazyflie 1.0",
+              "description": "Bitcraze Xacro MIT ✔️ ✔️ ✖️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 25419228,
+                "language": "C++",
+                "last_commit": "2021-08-03T16:39:43Z",
+                "owner": "whoenig",
+                "repo": "crazyflie_ros",
+                "stars": 199
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Crazyflie 2.0",
+              "description": "Bitcraze URDF, MJCF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286408558,
+                "language": "Python",
+                "last_commit": "2026-08-23T01:16:29Z",
+                "owner": "learnsyslab",
+                "repo": "gym-pybullet-drones",
+                "stars": 2115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "X2",
+              "description": "Skydio MJCF, URDF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ingenuity",
+              "description": "NASA JPL URDF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 927826452,
+                "language": null,
+                "last_commit": "2025-02-21T21:48:54Z",
+                "owner": "david-dorf",
+                "repo": "perseverance-ingenuity-urdfs",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Drones"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Double Pendulum",
+              "description": "URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205108859,
+                "language": "Python",
+                "last_commit": "2026-08-23T18:20:23Z",
+                "owner": "Gepetto",
+                "repo": "example-robot-data",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dynamixel 2R arm",
+              "description": "MJCF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FingerEdu",
+              "description": "URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205108859,
+                "language": "Python",
+                "last_commit": "2026-08-23T18:20:23Z",
+                "owner": "Gepetto",
+                "repo": "example-robot-data",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MuJoCo Humanoid",
+              "description": "MJCF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400501136,
+                "language": "C++",
+                "last_commit": "2026-08-24T13:20:19Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco",
+                "stars": 14647
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Simple Humanoid",
+              "description": "URDF BSD-2-Clause ✔️ ✔️ ✖️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68588833,
+                "language": "CMake",
+                "last_commit": "2025-11-10T14:27:01Z",
+                "owner": "laas",
+                "repo": "simple_humanoid_description",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TriFingerEdu",
+              "description": "URDF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 300462600,
+                "language": "Python",
+                "last_commit": "2023-03-22T18:30:01Z",
+                "owner": "facebookresearch",
+                "repo": "differentiable-robot-model",
+                "stars": 265
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Educational"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MJCF",
+              "description": ", URDF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468087319,
+                "language": "Python",
+                "last_commit": "2026-05-18T17:29:32Z",
+                "owner": "psyonicinc",
+                "repo": "ability-hand-api",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468087319,
+                "language": "Python",
+                "last_commit": "2026-05-18T17:29:32Z",
+                "owner": "psyonicinc",
+                "repo": "ability-hand-api",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MJCF",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apache-2.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "URDF",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1071825013,
+                "language": "Python",
+                "last_commit": "2026-08-03T17:19:40Z",
+                "owner": "TetherIA",
+                "repo": "aero-hand-open",
+                "stars": 912
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apache-2.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1071825013,
+                "language": "Python",
+                "last_commit": "2026-08-03T17:19:40Z",
+                "owner": "TetherIA",
+                "repo": "aero-hand-open",
+                "stars": 912
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Allegro Hand",
+              "description": "Wonik Robotics URDF, MJCF BSD ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152971074,
+                "language": "Starlark",
+                "last_commit": "2026-08-17T10:14:23Z",
+                "owner": "RobotLocomotion",
+                "repo": "models",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BarrettHand",
+              "description": "Barrett Technology URDF BSD ✖️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11130796,
+                "language": null,
+                "last_commit": "2013-07-02T17:37:54Z",
+                "owner": "jhu-lcsr-attic",
+                "repo": "bhand_model",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dagana Gripper",
+              "description": "IIT - HHCM Xacro Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 563464420,
+                "language": "C++",
+                "last_commit": "2026-04-29T13:43:23Z",
+                "owner": "ADVRHumanoids",
+                "repo": "iit-dagana-ros-pkg",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DexHand",
+              "description": "The Robot Studio URDF CC-BY-NC-SA ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 689657680,
+                "language": "Python",
+                "last_commit": "2024-06-30T16:12:26Z",
+                "owner": "iotdesignshop",
+                "repo": "dexhand_description",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IIT SoftFoot",
+              "description": "IIT MJCF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LEAP Hand v1",
+              "description": "Carnegie Mellon University URDF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 690100134,
+                "language": "Python",
+                "last_commit": "2024-05-18T18:48:48Z",
+                "owner": "leap-hand",
+                "repo": "LEAP_Hand_Sim",
+                "stars": 204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Robotiq 2F-85",
+              "description": "Robotiq MJCF, URDF, Xacro BSD-2-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SCHUNK EGP",
+              "description": "SCHUNK Xacro GPL-3.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 805281593,
+                "language": "CMake",
+                "last_commit": "2024-06-07T07:30:00Z",
+                "owner": "SCHUNK-SE-Co-KG",
+                "repo": "schunk_description",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SCHUNK EGU 50",
+              "description": "SCHUNK Xacro GPL-3.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 805281593,
+                "language": "CMake",
+                "last_commit": "2024-06-07T07:30:00Z",
+                "owner": "SCHUNK-SE-Co-KG",
+                "repo": "schunk_description",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SCHUNK PZN-plus",
+              "description": "SCHUNK Xacro GPL-3.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 805281593,
+                "language": "CMake",
+                "last_commit": "2024-06-07T07:30:00Z",
+                "owner": "SCHUNK-SE-Co-KG",
+                "repo": "schunk_description",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SCHUNK PZV 64",
+              "description": "SCHUNK Xacro GPL-3.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 805281593,
+                "language": "CMake",
+                "last_commit": "2024-06-07T07:30:00Z",
+                "owner": "SCHUNK-SE-Co-KG",
+                "repo": "schunk_description",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SCHUNK SVH Hand",
+              "description": "SCHUNK Xacro GPL-3.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 610710481,
+                "language": "Python",
+                "last_commit": "2026-08-24T06:07:31Z",
+                "owner": "SCHUNK-SE-Co-KG",
+                "repo": "schunk_svh_ros_driver",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SCHUNK WSG 50",
+              "description": "SCHUNK SDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152971074,
+                "language": "Starlark",
+                "last_commit": "2026-08-17T10:14:23Z",
+                "owner": "RobotLocomotion",
+                "repo": "models",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shadow DEX-EE",
+              "description": "The Shadow Robot Company MJCF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shadow Hand E3M5",
+              "description": "The Shadow Robot Company MJCF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Xacro",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1009151893,
+                "language": "Python",
+                "last_commit": "2026-08-24T11:21:19Z",
+                "owner": "roboninecom",
+                "repo": "SO-ARM100-101-Parallel-Gripper",
+                "stars": 162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPL-3.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1009151893,
+                "language": "Python",
+                "last_commit": "2026-08-24T11:21:19Z",
+                "owner": "roboninecom",
+                "repo": "SO-ARM100-101-Parallel-Gripper",
+                "stars": 162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UMI Gripper",
+              "description": "UMI project MJCF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "End Effectors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Adam Lite",
+              "description": "PNDbotics MJCF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgiBot X1",
+              "description": "AgibotTech MJCF, URDF ✖️ ✔️ ✔️ ✖️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 877059051,
+                "language": "Python",
+                "last_commit": "2024-10-23T04:00:36Z",
+                "owner": "AgibotTech",
+                "repo": "agibot_x1_train",
+                "stars": 1696
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apollo",
+              "description": "Apptronik MJCF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Atlas DRC (v3)",
+              "description": "Boston Dynamics URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152971074,
+                "language": "Starlark",
+                "last_commit": "2026-08-17T10:14:23Z",
+                "owner": "RobotLocomotion",
+                "repo": "models",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Atlas v4",
+              "description": "Boston Dynamics URDF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 91389763,
+                "language": "Python",
+                "last_commit": "2023-04-02T11:37:04Z",
+                "owner": "openai",
+                "repo": "roboschool",
+                "stars": 2169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Berkeley Humanoid",
+              "description": "Hybrid Robotics URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 846754567,
+                "language": "OpenSCAD",
+                "last_commit": "2024-08-23T22:13:52Z",
+                "owner": "HybridRobotics",
+                "repo": "berkeley_humanoid_description",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Booster T1",
+              "description": "Booster Robotics MJCF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Booster T1",
+              "description": "Booster Robotics URDF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 900659795,
+                "language": "Python",
+                "last_commit": "2025-12-23T05:23:51Z",
+                "owner": "BoosterRobotics",
+                "repo": "booster_gym",
+                "stars": 298
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Digit",
+              "description": "Agility Robotics URDF ✖️ ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 370631833,
+                "language": "Julia",
+                "last_commit": "2023-08-23T14:50:42Z",
+                "owner": "adubredu",
+                "repo": "DigitRobot.jl",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Draco3",
+              "description": "Apptronik URDF BSD-2-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 604670674,
+                "language": null,
+                "last_commit": "2023-02-21T20:52:53Z",
+                "owner": "shbang91",
+                "repo": "draco3_description",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Elf2",
+              "description": "BXI Robotics MJCF, URDF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 956960050,
+                "language": null,
+                "last_commit": "2025-04-03T15:52:44Z",
+                "owner": "bxirobotics",
+                "repo": "robot_descriptions",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ergoCub",
+              "description": "IIT URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 554302047,
+                "language": "MATLAB",
+                "last_commit": "2026-08-24T07:59:34Z",
+                "owner": "mesh-iit",
+                "repo": "ergocub-software",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "G1",
+              "description": "UNITREE Robotics MJCF, URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "URDF",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1280107294,
+                "language": "Python",
+                "last_commit": "2026-07-28T09:04:44Z",
+                "owner": "gbionics",
+                "repo": "gb-robot-models",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CC-BY-NC-4.0 ✖️",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1280107294,
+                "language": "Python",
+                "last_commit": "2026-07-28T09:04:44Z",
+                "owner": "gbionics",
+                "repo": "gb-robot-models",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "URDF",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 807539348,
+                "language": "Python",
+                "last_commit": "2025-11-13T08:41:13Z",
+                "owner": "FFTAI",
+                "repo": "Wiki-GRx-Models",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPL-3.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 807539348,
+                "language": "Python",
+                "last_commit": "2025-11-13T08:41:13Z",
+                "owner": "FFTAI",
+                "repo": "Wiki-GRx-Models",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gundam RX-78",
+              "description": "Bandai Namco Filmworks URDF ✖️ ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174115505,
+                "language": "Python",
+                "last_commit": "2020-08-28T01:05:02Z",
+                "owner": "gundam-global-challenge",
+                "repo": "gundam_robot",
+                "stars": 195
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "H1",
+              "description": "UNITREE Robotics MJCF, URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iCub",
+              "description": "IIT URDF CC-BY-SA-4.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90643613,
+                "language": "CMake",
+                "last_commit": "2026-02-26T14:55:58Z",
+                "owner": "robotology",
+                "repo": "icub-models",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JAXON",
+              "description": "JSK COLLADA, URDF, VRML CC-BY-SA-4.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 59568856,
+                "language": "Python",
+                "last_commit": "2019-05-14T15:39:27Z",
+                "owner": "stephane-caron",
+                "repo": "openrave_models",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JVRC-1",
+              "description": "AIST MJCF, URDF BSD-2-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 406629031,
+                "language": "CMake",
+                "last_commit": "2026-03-24T16:22:48Z",
+                "owner": "isri-aist",
+                "repo": "jvrc_mj_description",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Microban",
+              "description": "Marc Duclusaud MJCF GPL-3.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1230832604,
+                "language": "Python",
+                "last_commit": "2026-07-21T00:16:10Z",
+                "owner": "Rhoban",
+                "repo": "microban",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Microban",
+              "description": "Marc Duclusaud URDF GPL-3.0 ✖️ ✔️ ✖️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1230832604,
+                "language": "Python",
+                "last_commit": "2026-07-21T00:16:10Z",
+                "owner": "Rhoban",
+                "repo": "microban",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "URDF",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 807539348,
+                "language": "Python",
+                "last_commit": "2025-11-13T08:41:13Z",
+                "owner": "FFTAI",
+                "repo": "Wiki-GRx-Models",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apache-2.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 807539348,
+                "language": "Python",
+                "last_commit": "2025-11-13T08:41:13Z",
+                "owner": "FFTAI",
+                "repo": "Wiki-GRx-Models",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "URDF",
+              "description": ", Xacro",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25249395,
+                "language": "Python",
+                "last_commit": "2022-08-08T11:26:53Z",
+                "owner": "ros-naoqi",
+                "repo": "nao_robot",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":heavy_minus_sign:",
+              "description": "(?)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23344376,
+                "language": "CMake",
+                "last_commit": "2025-04-03T11:22:45Z",
+                "owner": "ros-naoqi",
+                "repo": "nao_meshes",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Robonaut 2",
+              "description": "NASA JSC Robotics URDF NASA-1.3 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135928025,
+                "language": "HTML",
+                "last_commit": "2023-03-02T00:57:45Z",
+                "owner": "gkjohnson",
+                "repo": "nasa-urdf-robots",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Romeo",
+              "description": "Aldebaran Robotics URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23698624,
+                "language": "Python",
+                "last_commit": "2018-08-27T16:18:15Z",
+                "owner": "ros-aldebaran",
+                "repo": "romeo_robot",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SigmaBan",
+              "description": "Rhoban URDF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 549474904,
+                "language": "OpenSCAD",
+                "last_commit": "2022-10-14T09:53:17Z",
+                "owner": "Rhoban",
+                "repo": "sigmaban_urdf",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TALOS",
+              "description": "PAL Robotics URDF, Xacro, MJCF LGPL-3.0, Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 168350529,
+                "language": "CMake",
+                "last_commit": "2025-11-24T19:41:22Z",
+                "owner": "stack-of-tasks",
+                "repo": "talos-data",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ToddlerBot 2XC",
+              "description": "Stanford University MJCF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ToddlerBot 2XC",
+              "description": "Stanford University URDF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 926431156,
+                "language": "Python",
+                "last_commit": "2026-07-31T07:04:15Z",
+                "owner": "hshi74",
+                "repo": "toddlerbot",
+                "stars": 742
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ToddlerBot 2XM",
+              "description": "Stanford University MJCF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ToddlerBot 2XM",
+              "description": "Stanford University URDF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 926431156,
+                "language": "Python",
+                "last_commit": "2026-07-31T07:04:15Z",
+                "owner": "hshi74",
+                "repo": "toddlerbot",
+                "stars": 742
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Valkyrie",
+              "description": "NASA JSC Robotics URDF, Xacro NASA-1.3 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135928025,
+                "language": "HTML",
+                "last_commit": "2023-03-02T00:57:45Z",
+                "owner": "gkjohnson",
+                "repo": "nasa-urdf-robots",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WALK-MAN",
+              "description": "IIT Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110574428,
+                "language": "Shell",
+                "last_commit": "2018-02-16T13:31:32Z",
+                "owner": "ADVRHumanoids",
+                "repo": "iit-walkman-ros-pkg",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Humanoids"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BamBot",
+              "description": "Tim Qian URDF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 950065302,
+                "language": "TypeScript",
+                "last_commit": "2025-07-14T09:49:10Z",
+                "owner": "timqian",
+                "repo": "bambot",
+                "stars": 969
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Eve R3",
+              "description": "Halodi URDF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1322748110,
+                "language": "Python",
+                "last_commit": "2026-08-04T09:34:58Z",
+                "owner": "robot-descriptions",
+                "repo": "halodi-robot-models",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fetch",
+              "description": "Fetch Robotics URDF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 91389763,
+                "language": "Python",
+                "last_commit": "2023-04-02T11:37:04Z",
+                "owner": "openai",
+                "repo": "roboschool",
+                "stars": 2169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ginger",
+              "description": "Paaila Technology URDF BSD ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150865327,
+                "language": "CMake",
+                "last_commit": "2019-09-20T07:15:26Z",
+                "owner": "Rayckey",
+                "repo": "GingerURDF",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Google Robot",
+              "description": "Google MJCF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pepper",
+              "description": "SoftBank Robotics URDF BSD-2-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288070562,
+                "language": "CMake",
+                "last_commit": "2024-03-15T17:17:01Z",
+                "owner": "jrl-umi3218",
+                "repo": "pepper_description",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PR2",
+              "description": "Willow Garage URDF, Xacro BSD ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254945466,
+                "language": "Python",
+                "last_commit": "2026-04-10T22:07:33Z",
+                "owner": "ankurhanda",
+                "repo": "robot-assets",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "R1",
+              "description": "Galaxea Dynamics URDF :heavy_minus_sign: ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 843396091,
+                "language": "Python",
+                "last_commit": "2026-07-24T10:03:24Z",
+                "owner": "userguide-galaxea",
+                "repo": "URDF",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RB-KAIROS+",
+              "description": "Robotnik Automation Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 757340598,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:51:48Z",
+                "owner": "RobotnikAutomation",
+                "repo": "robotnik_description",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RB-ROBOUT+",
+              "description": "Robotnik Automation Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 757340598,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:51:48Z",
+                "owner": "RobotnikAutomation",
+                "repo": "robotnik_description",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RB-VOGUI+",
+              "description": "Robotnik Automation Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 757340598,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:51:48Z",
+                "owner": "RobotnikAutomation",
+                "repo": "robotnik_description",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reachy",
+              "description": "Pollen Robotics URDF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282515341,
+                "language": "CMake",
+                "last_commit": "2020-11-10T21:11:08Z",
+                "owner": "aubrune",
+                "repo": "reachy_description",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "URDF",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991468599,
+                "language": null,
+                "last_commit": "2025-07-03T17:04:06Z",
+                "owner": "uynitsuj",
+                "repo": "rby1_description",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991468599,
+                "language": null,
+                "last_commit": "2025-07-03T17:04:06Z",
+                "owner": "uynitsuj",
+                "repo": "rby1_description",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MJCF",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991468599,
+                "language": null,
+                "last_commit": "2025-07-03T17:04:06Z",
+                "owner": "uynitsuj",
+                "repo": "rby1_description",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991468599,
+                "language": null,
+                "last_commit": "2025-07-03T17:04:06Z",
+                "owner": "uynitsuj",
+                "repo": "rby1_description",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ridgeback",
+              "description": "Clearpath Robotics Xacro BSD ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124254731,
+                "language": "Shell",
+                "last_commit": "2023-11-29T16:47:57Z",
+                "owner": "ridgeback",
+                "repo": "ridgeback_manipulation",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stretch 2",
+              "description": "Hello Robot MJCF Clear BSD ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stretch 3",
+              "description": "Hello Robot MJCF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stretch RE1",
+              "description": "Hello Robot URDF, Xacro CC-BY-NC-SA-4.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 627338144,
+                "language": "CMake",
+                "last_commit": "2023-04-13T09:59:24Z",
+                "owner": "robot-descriptions",
+                "repo": "stretch_description",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TIAGo",
+              "description": "PAL Robotics URDF, MJCF, Xacro Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205108859,
+                "language": "Python",
+                "last_commit": "2026-08-23T18:20:23Z",
+                "owner": "Gepetto",
+                "repo": "example-robot-data",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Perseverance",
+              "description": "NASA JPL URDF Apache-2.0 ✔️ ✖️ ✖️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 927826452,
+                "language": null,
+                "last_commit": "2025-02-21T21:48:54Z",
+                "owner": "david-dorf",
+                "repo": "perseverance-ingenuity-urdfs",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tidybot",
+              "description": "Stanford MJCF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mobile Manipulators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A1",
+              "description": "UNITREE Robotics MJCF, URDF MPL-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 423362956,
+                "language": "C++",
+                "last_commit": "2026-06-08T07:33:52Z",
+                "owner": "unitreerobotics",
+                "repo": "unitree_mujoco",
+                "stars": 1147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Aliengo",
+              "description": "UNITREE Robotics MJCF, URDF MPL-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 423362956,
+                "language": "C++",
+                "last_commit": "2026-06-08T07:33:52Z",
+                "owner": "unitreerobotics",
+                "repo": "unitree_mujoco",
+                "stars": 1147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ANYmal B",
+              "description": "ANYbotics MJCF, URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ANYmal C",
+              "description": "ANYbotics MJCF, URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ANYmal D",
+              "description": "ANYbotics URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 700852158,
+                "language": "CMake",
+                "last_commit": "2025-02-15T04:14:41Z",
+                "owner": "ANYbotics",
+                "repo": "anymal_d_simple_description",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "B1",
+              "description": "UNITREE Robotics URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287439935,
+                "language": "C++",
+                "last_commit": "2026-08-24T06:28:26Z",
+                "owner": "unitreerobotics",
+                "repo": "unitree_ros",
+                "stars": 1533
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "B2",
+              "description": "UNITREE Robotics URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287439935,
+                "language": "C++",
+                "last_commit": "2026-08-24T06:28:26Z",
+                "owner": "unitreerobotics",
+                "repo": "unitree_ros",
+                "stars": 1533
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Barkour v0",
+              "description": "Google MJCF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Barkour v0",
+              "description": "Google URDF Apache-2.0 ✔️ ✖️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Barkour vb",
+              "description": "Google MJCF, URDF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go1",
+              "description": "UNITREE Robotics MJCF, URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 423362956,
+                "language": "C++",
+                "last_commit": "2026-06-08T07:33:52Z",
+                "owner": "unitreerobotics",
+                "repo": "unitree_mujoco",
+                "stars": 1147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go2",
+              "description": "UNITREE Robotics MJCF, URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HyQ",
+              "description": "IIT URDF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205108859,
+                "language": "Python",
+                "last_commit": "2026-08-23T18:20:23Z",
+                "owner": "Gepetto",
+                "repo": "example-robot-data",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Laikago",
+              "description": "UNITREE Robotics MJCF, URDF MPL-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 423362956,
+                "language": "C++",
+                "last_commit": "2026-06-08T07:33:52Z",
+                "owner": "unitreerobotics",
+                "repo": "unitree_mujoco",
+                "stars": 1147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mini Cheetah",
+              "description": "MIT URDF BSD ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267061147,
+                "language": "Python",
+                "last_commit": "2021-02-02T07:29:15Z",
+                "owner": "Derek-TH-Wang",
+                "repo": "mini_cheetah_urdf",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Minitaur",
+              "description": "Ghost Robotics URDF BSD-2-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1605598,
+                "language": "C++",
+                "last_commit": "2025-10-22T02:13:14Z",
+                "owner": "bulletphysics",
+                "repo": "bullet3",
+                "stars": 14692
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pupper v3",
+              "description": "Gabrael Levine URDF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 760898662,
+                "language": "Python",
+                "last_commit": "2024-11-08T14:42:57Z",
+                "owner": "G-Levine",
+                "repo": "pupper_v3_description",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solo",
+              "description": "ODRI URDF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205108859,
+                "language": "Python",
+                "last_commit": "2026-08-23T18:20:23Z",
+                "owner": "Gepetto",
+                "repo": "example-robot-data",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spot",
+              "description": "Boston Dynamics MJCF BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spot",
+              "description": "Boston Dynamics Xacro MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 920187983,
+                "language": "Python",
+                "last_commit": "2026-05-12T13:03:03Z",
+                "owner": "rai-opensource",
+                "repo": "spot_description",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Quadrupeds"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Boxer",
+              "description": "Clearpath Robotics Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 426007835,
+                "language": "CMake",
+                "last_commit": "2022-09-23T15:24:24Z",
+                "owner": "boxer-cpr",
+                "repo": "boxer",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dingo",
+              "description": "Clearpath Robotics Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286526640,
+                "language": "CMake",
+                "last_commit": "2023-04-24T12:55:54Z",
+                "owner": "dingo-cpr",
+                "repo": "dingo",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Husky",
+              "description": "Clearpath Robotics Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32733110,
+                "language": "CMake",
+                "last_commit": "2025-10-01T16:45:31Z",
+                "owner": "husky",
+                "repo": "husky",
+                "stars": 509
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jackal",
+              "description": "Clearpath Robotics Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18222915,
+                "language": "CMake",
+                "last_commit": "2024-07-09T21:33:59Z",
+                "owner": "jackal",
+                "repo": "jackal",
+                "stars": 183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RB-ROBOUT",
+              "description": "Robotnik Automation Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 757340598,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:51:48Z",
+                "owner": "RobotnikAutomation",
+                "repo": "robotnik_description",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RB-KAIROS",
+              "description": "Robotnik Automation Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 757340598,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:51:48Z",
+                "owner": "RobotnikAutomation",
+                "repo": "robotnik_description",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RB-SUMMIT",
+              "description": "Robotnik Automation Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 757340598,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:51:48Z",
+                "owner": "RobotnikAutomation",
+                "repo": "robotnik_description",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RB-THERON",
+              "description": "Robotnik Automation Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 757340598,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:51:48Z",
+                "owner": "RobotnikAutomation",
+                "repo": "robotnik_description",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RB-VOGUI",
+              "description": "Robotnik Automation Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 757340598,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:51:48Z",
+                "owner": "RobotnikAutomation",
+                "repo": "robotnik_description",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ridgeback",
+              "description": "Clearpath Robotics Xacro BSD-3-Clause ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38638657,
+                "language": "C++",
+                "last_commit": "2025-11-07T19:02:50Z",
+                "owner": "ridgeback",
+                "repo": "ridgeback",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RSK omnidirectional",
+              "description": "Robot Soccer Kit MJCF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532854029,
+                "language": "Python",
+                "last_commit": "2026-08-09T19:35:18Z",
+                "owner": "google-deepmind",
+                "repo": "mujoco_menagerie",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RSK omnidirectional",
+              "description": "Robot Soccer Kit URDF MIT ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258506616,
+                "language": "OpenSCAD",
+                "last_commit": "2026-02-02T20:30:34Z",
+                "owner": "Rhoban",
+                "repo": "onshape-to-robot-examples",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WL P311D",
+              "description": "LimX Dynamics URDF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 800828236,
+                "language": "CMake",
+                "last_commit": "2026-08-10T07:06:20Z",
+                "owner": "limxdynamics",
+                "repo": "tron1-robot-description",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WL P311E",
+              "description": "LimX Dynamics URDF Apache-2.0 ✔️ ✔️ ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 800828236,
+                "language": "CMake",
+                "last_commit": "2026-08-10T07:06:20Z",
+                "owner": "limxdynamics",
+                "repo": "tron1-robot-description",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Wheeled"
+        }
+      ],
+      "title": "Robot Descriptions"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Awesome Open Source Robots",
           "description": null,
@@ -38,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:33:14.653Z",
+    "last_updated": "2026-08-24T14:11:44.115Z",
     "original_repository": "robot-descriptions/awesome-robot-descriptions",
     "original_repository_id": 478093237,
     "original_repository_sha": "aad489f75a7e7e85f6a5ae49bb6dc86c32b62a7d",
