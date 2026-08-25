@@ -452,7 +452,7 @@
                 "last_commit": "2026-08-05T09:21:21Z",
                 "owner": "TheRobotStudio",
                 "repo": "SO-ARM100",
-                "stars": 7186
+                "stars": 7187
               }
             },
             {
@@ -1309,7 +1309,7 @@
                 "archived": false,
                 "id": 610710481,
                 "language": "Python",
-                "last_commit": "2026-08-24T06:07:31Z",
+                "last_commit": "2026-08-25T06:04:50Z",
                 "owner": "SCHUNK-SE-Co-KG",
                 "repo": "schunk_svh_ros_driver",
                 "stars": 22
@@ -2578,7 +2578,7 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14693
+                "stars": 14695
               }
             },
             {
@@ -2904,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:02:06.796Z",
+    "last_updated": "2026-08-25T07:14:03.936Z",
     "original_repository": "robot-descriptions/awesome-robot-descriptions",
     "original_repository_id": 478093237,
     "original_repository_sha": "aad489f75a7e7e85f6a5ae49bb6dc86c32b62a7d",
