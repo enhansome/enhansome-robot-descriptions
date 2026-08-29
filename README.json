@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Edo Robot URDF file for ROS",
+                "homepage": null,
                 "id": 139092027,
                 "language": "CMake",
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-03-01T10:41:59Z",
+                "open_issues": 0,
                 "owner": "ianathompson",
                 "repo": "eDO_description",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Edo Robot URDF file for ROS",
+                "homepage": null,
                 "id": 139092027,
                 "language": "CMake",
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-03-01T10:41:59Z",
+                "open_issues": 0,
                 "owner": "ianathompson",
                 "repo": "eDO_description",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -44,12 +54,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -60,12 +78,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -76,12 +102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  Set of robot URDFs for benchmarking and developed examples.",
+                "homepage": null,
                 "id": 205108859,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T09:52:27Z",
+                "open_issues": 14,
                 "owner": "Gepetto",
                 "repo": "example-robot-data",
-                "stars": 290
+                "stars": 290,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -92,12 +123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS2 driver for the Gen3 Kinova robot arm",
+                "homepage": null,
                 "id": 390407974,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-27T15:21:26Z",
+                "open_issues": 61,
                 "owner": "Kinovarobotics",
                 "repo": "ros2_kortex",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -108,12 +144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 539901250,
                 "language": "CMake",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-18T15:03:06Z",
+                "open_issues": 0,
                 "owner": "mathieu-celerier",
                 "repo": "kinova_mj_description",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -124,12 +165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS packages for KINOVA® KORTEX™ robotic arms",
+                "homepage": null,
                 "id": 160873090,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-26T17:38:43Z",
+                "open_issues": 18,
                 "owner": "Kinovarobotics",
                 "repo": "ros_kortex",
-                "stars": 217
+                "stars": 217,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -140,12 +186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS2 driver for the Gen3 Kinova robot arm",
+                "homepage": null,
                 "id": 390407974,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-27T15:21:26Z",
+                "open_issues": 61,
                 "owner": "Kinovarobotics",
                 "repo": "ros2_kortex",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -156,12 +207,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shareable model files (urdf/sdf + meshes, etc) for our robotics projects",
+                "homepage": null,
                 "id": 152971074,
                 "language": "Starlark",
+                "license": null,
                 "last_commit": "2026-08-17T10:14:23Z",
+                "open_issues": 7,
                 "owner": "RobotLocomotion",
                 "repo": "models",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -172,12 +228,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "We are implementing differentiable models of robot manipulators, which allows us to learn typically assumed to be known models of robots for control and motion planning. ",
+                "homepage": null,
                 "id": 300462600,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-22T18:30:01Z",
+                "open_issues": 14,
                 "owner": "facebookresearch",
                 "repo": "differentiable-robot-model",
-                "stars": 265
+                "stars": 265,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -188,12 +249,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -204,12 +273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A version 1.1 of the Alexander Koch low cost robot arm with some small changes.",
+                "homepage": null,
                 "id": 857132783,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-25T15:10:23Z",
+                "open_issues": 0,
                 "owner": "s1lent4gnt",
                 "repo": "koch-v1-1",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -220,12 +294,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS2 developer packages for robotic products from UFACTORY",
+                "homepage": "https://www.ufactory.cc/pages/xarm",
                 "id": 377027506,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-11T06:22:26Z",
+                "open_issues": 95,
                 "owner": "xArm-Developer",
                 "repo": "xarm_ros2",
-                "stars": 269
+                "stars": 269,
+                "topics": [
+                  "gazebo",
+                  "robotics",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -236,12 +319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 784610434,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-29T01:57:21Z",
+                "open_issues": 0,
                 "owner": "tc-huang",
                 "repo": "low_cost_robot",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -252,12 +340,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "URDF description of the Fanuc M-710iC manipulator",
+                "homepage": null,
                 "id": 644468267,
                 "language": "CMake",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-05-23T16:45:59Z",
+                "open_issues": 0,
                 "owner": "robot-descriptions",
                 "repo": "fanuc_m710ic_description",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -268,12 +361,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS 2 integration for KUKA LBR IIWA 7/14 and Med 7/14",
+                "homepage": "https://lbr-stack.readthedocs.io/en/latest/lbr_fri_ros2_stack/lbr_fri_ros2_stack/doc/lbr_fri_ros2_stack.html",
                 "id": 224664015,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-16T19:50:43Z",
+                "open_issues": 55,
                 "owner": "lbr-stack",
                 "repo": "lbr_fri_ros2_stack",
-                "stars": 267
+                "stars": 267,
+                "topics": [
+                  "kuka",
+                  "kuka-lbr-iiwa",
+                  "kuka-lbr-med",
+                  "robotics",
+                  "ros",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -284,12 +389,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS 2 integration for KUKA LBR IIWA 7/14 and Med 7/14",
+                "homepage": "https://lbr-stack.readthedocs.io/en/latest/lbr_fri_ros2_stack/lbr_fri_ros2_stack/doc/lbr_fri_ros2_stack.html",
                 "id": 224664015,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-16T19:50:43Z",
+                "open_issues": 55,
                 "owner": "lbr-stack",
                 "repo": "lbr_fri_ros2_stack",
-                "stars": 267
+                "stars": 267,
+                "topics": [
+                  "kuka",
+                  "kuka-lbr-iiwa",
+                  "kuka-lbr-med",
+                  "robotics",
+                  "ros",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -300,12 +417,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -316,12 +441,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  Set of robot URDFs for benchmarking and developed examples.",
+                "homepage": null,
                 "id": 205108859,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T09:52:27Z",
+                "open_issues": 14,
                 "owner": "Gepetto",
                 "repo": "example-robot-data",
-                "stars": 290
+                "stars": 290,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -332,12 +462,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -348,12 +486,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URDF and Collada description of Poppy Ergo Jr robot for ROS 1",
+                "homepage": null,
                 "id": 263158015,
                 "language": "CMake",
+                "license": null,
                 "last_commit": "2021-09-30T09:55:10Z",
+                "open_issues": 0,
                 "owner": "poppy-project",
                 "repo": "poppy_ergo_jr_description",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "poppy-ergo-jr",
+                  "robot",
+                  "ros",
+                  "urdf"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -364,12 +512,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -380,12 +536,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -396,12 +560,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URDF description for Flexiv robots",
+                "homepage": null,
                 "id": 1100278081,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:03:05Z",
+                "open_issues": 2,
                 "owner": "flexivrobotics",
                 "repo": "flexiv_description",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -412,12 +581,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URDF description for Flexiv robots",
+                "homepage": null,
                 "id": 1100278081,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:03:05Z",
+                "open_issues": 2,
                 "owner": "flexivrobotics",
                 "repo": "flexiv_description",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -428,12 +602,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sawyer-specific components for the Sawyer robot for use with the intera_sdk.",
+                "homepage": "http://sdk.rethinkrobotics.com/intera/",
                 "id": 60373690,
                 "language": "CMake",
+                "license": "Apache-2.0",
                 "last_commit": "2021-02-08T15:53:35Z",
+                "open_issues": 2,
                 "owner": "RethinkRobotics",
                 "repo": "sawyer_robot",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "robot",
+                  "robotics",
+                  "ros"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -444,12 +627,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -460,12 +651,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -476,12 +675,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standard Open Arm 100",
+                "homepage": null,
                 "id": 798981945,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-05T09:21:21Z",
+                "open_issues": 83,
                 "owner": "TheRobotStudio",
                 "repo": "SO-ARM100",
-                "stars": 7222
+                "stars": 7223,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -492,12 +696,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -508,12 +720,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -524,12 +744,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  Set of robot URDFs for benchmarking and developed examples.",
+                "homepage": null,
                 "id": 205108859,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T09:52:27Z",
+                "open_issues": 14,
                 "owner": "Gepetto",
                 "repo": "example-robot-data",
-                "stars": 290
+                "stars": 290,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -540,12 +765,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -556,12 +789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  Set of robot URDFs for benchmarking and developed examples.",
+                "homepage": null,
                 "id": 205108859,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T09:52:27Z",
+                "open_issues": 14,
                 "owner": "Gepetto",
                 "repo": "example-robot-data",
-                "stars": 290
+                "stars": 290,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -572,12 +810,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS-Industrial Universal Robots support (https://wiki.ros.org/universal_robot)",
+                "homepage": null,
                 "id": 8745199,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-07-20T12:26:36Z",
+                "open_issues": 45,
                 "owner": "ros-industrial",
                 "repo": "universal_robot",
-                "stars": 1414
+                "stars": 1414,
+                "topics": [
+                  "moveit",
+                  "ros-industrial",
+                  "universal-robots",
+                  "ur",
+                  "urdf"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -588,12 +837,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  Set of robot URDFs for benchmarking and developed examples.",
+                "homepage": null,
                 "id": 205108859,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T09:52:27Z",
+                "open_issues": 14,
                 "owner": "Gepetto",
                 "repo": "example-robot-data",
-                "stars": 290
+                "stars": 290,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -604,12 +858,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -620,12 +882,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS Packages for Interbotix Arms",
+                "homepage": null,
                 "id": 306430097,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-08-08T20:10:41Z",
+                "open_issues": 26,
                 "owner": "Interbotix",
                 "repo": "interbotix_ros_manipulators",
-                "stars": 183
+                "stars": 183,
+                "topics": [
+                  "interbotix",
+                  "manipulator",
+                  "robotics",
+                  "ros",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -636,12 +909,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -652,12 +933,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS2 developer packages for robotic products from UFACTORY",
+                "homepage": "https://www.ufactory.cc/pages/xarm",
                 "id": 377027506,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-11T06:22:26Z",
+                "open_issues": 95,
                 "owner": "xArm-Developer",
                 "repo": "xarm_ros2",
-                "stars": 269
+                "stars": 269,
+                "topics": [
+                  "gazebo",
+                  "robotics",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -668,12 +958,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS2 developer packages for robotic products from UFACTORY",
+                "homepage": "https://www.ufactory.cc/pages/xarm",
                 "id": 377027506,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-11T06:22:26Z",
+                "open_issues": 95,
                 "owner": "xArm-Developer",
                 "repo": "xarm_ros2",
-                "stars": 269
+                "stars": 269,
+                "topics": [
+                  "gazebo",
+                  "robotics",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -684,12 +983,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS2 developer packages for robotic products from UFACTORY",
+                "homepage": "https://www.ufactory.cc/pages/xarm",
                 "id": 377027506,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-11T06:22:26Z",
+                "open_issues": 95,
                 "owner": "xArm-Developer",
                 "repo": "xarm_ros2",
-                "stars": 269
+                "stars": 269,
+                "topics": [
+                  "gazebo",
+                  "robotics",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -700,12 +1008,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 287439935,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T04:55:01Z",
+                "open_issues": 91,
                 "owner": "unitreerobotics",
                 "repo": "unitree_ros",
-                "stars": 1542
+                "stars": 1542,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             }
@@ -723,12 +1036,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  Set of robot URDFs for benchmarking and developed examples.",
+                "homepage": null,
                 "id": 205108859,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T09:52:27Z",
+                "open_issues": 14,
                 "owner": "Gepetto",
                 "repo": "example-robot-data",
-                "stars": 290
+                "stars": 290,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -739,12 +1057,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adverserial Waddle Dynamics",
+                "homepage": null,
                 "id": 857527298,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-02-18T18:09:43Z",
+                "open_issues": 3,
                 "owner": "rimim",
                 "repo": "AWD",
-                "stars": 102
+                "stars": 102,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -755,12 +1078,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "URDF description for a compliant model of the Cassie biped",
+                "homepage": null,
                 "id": 557345293,
                 "language": "CMake",
+                "license": "MIT",
                 "last_commit": "2022-10-25T16:40:18Z",
+                "open_issues": 0,
                 "owner": "robot-descriptions",
                 "repo": "cassie_description",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -771,12 +1099,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -787,12 +1123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URDF model for the Rhea wheeled biped",
+                "homepage": null,
                 "id": 608012206,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-21T20:22:25Z",
+                "open_issues": 0,
                 "owner": "G-Levine",
                 "repo": "rhea_description",
-                "stars": 277
+                "stars": 277,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -803,12 +1144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spryped is an impedance controlled bipedal robot.",
+                "homepage": null,
                 "id": 235253478,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-10-12T06:07:44Z",
+                "open_issues": 0,
                 "owner": "bbokser",
                 "repo": "spryped",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -819,12 +1165,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URDF and Xacro descriptions for Upkie wheeled bipeds",
+                "homepage": null,
                 "id": 471061195,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-11T16:52:47Z",
+                "open_issues": 1,
                 "owner": "upkie",
                 "repo": "upkie_description",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "legged-robots",
+                  "robot",
+                  "robot-model",
+                  "urdf",
+                  "urdf-descriptions",
+                  "urdf-models",
+                  "wheeled-biped"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             }
@@ -842,12 +1201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS Messages and robot description files for the Baxter Research Robot",
+                "homepage": "www.rethinkrobotics.com/sdk",
                 "id": 11371241,
                 "language": "CMake",
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-06-26T19:18:49Z",
+                "open_issues": 7,
                 "owner": "RethinkRobotics",
                 "repo": "baxter_common",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -858,12 +1222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shareable model files (urdf/sdf + meshes, etc) for our robotics projects",
+                "homepage": null,
                 "id": 152971074,
                 "language": "Starlark",
+                "license": null,
                 "last_commit": "2026-08-17T10:14:23Z",
+                "open_issues": 7,
                 "owner": "RobotLocomotion",
                 "repo": "models",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -874,12 +1243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS-OpenRTM-based opensource robot controller software for dual-armed robot Nextage from Kawada Industries",
+                "homepage": "http://wiki.ros.org/rtmros_nextage",
                 "id": 13974308,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2025-05-09T02:07:47Z",
+                "open_issues": 65,
                 "owner": "tork-a",
                 "repo": "rtmros_nextage",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -890,12 +1264,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URDF Description of Poppy Torso robot (ROS and V-REP)",
+                "homepage": "http://poppy-project.org/",
                 "id": 81379400,
                 "language": "CMake",
+                "license": null,
                 "last_commit": "2017-02-16T15:09:32Z",
+                "open_issues": 0,
                 "owner": "poppy-project",
                 "repo": "poppy_torso_description",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "mesh",
+                  "poppy-torso",
+                  "robot",
+                  "ros",
+                  "stl",
+                  "urdf"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -906,12 +1292,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS package with URDF description macro for Sciurus17",
+                "homepage": null,
                 "id": 688834067,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-28T10:36:38Z",
+                "open_issues": 3,
                 "owner": "rt-net",
                 "repo": "sciurus17_description",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -922,12 +1313,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ROS packages pertaining to the ABB YuMi (IRB 14000) robot",
+                "homepage": null,
                 "id": 52382779,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2019-08-19T08:44:11Z",
+                "open_issues": 7,
                 "owner": "OrebroUniversity",
                 "repo": "yumi",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             }
@@ -945,12 +1341,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ROS Driver for Bitcraze Crazyflie",
+                "homepage": null,
                 "id": 25419228,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-08-03T16:39:43Z",
+                "open_issues": 48,
                 "owner": "whoenig",
                 "repo": "crazyflie_ros",
-                "stars": 199
+                "stars": 199,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -961,12 +1362,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyBullet Gymnasium environments for single and multi-agent reinforcement learning of quadcopter control",
+                "homepage": "https://arxiv.org/pdf/2103.02142",
                 "id": 286408558,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-23T01:16:29Z",
+                "open_issues": 110,
                 "owner": "learnsyslab",
                 "repo": "gym-pybullet-drones",
-                "stars": 2120
+                "stars": 2120,
+                "topics": [
+                  "betaflight",
+                  "control",
+                  "crazyflie",
+                  "gym",
+                  "gymnasium",
+                  "multi-agent",
+                  "pybullet",
+                  "quadcopter",
+                  "quadrotor",
+                  "reinforcement-learning",
+                  "robotics",
+                  "sitl",
+                  "stable-baselines3",
+                  "uav"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -977,12 +1398,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -993,12 +1422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 927826452,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-21T21:48:54Z",
+                "open_issues": 0,
                 "owner": "david-dorf",
                 "repo": "perseverance-ingenuity-urdfs",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             }
@@ -1016,12 +1450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  Set of robot URDFs for benchmarking and developed examples.",
+                "homepage": null,
                 "id": 205108859,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T09:52:27Z",
+                "open_issues": 14,
                 "owner": "Gepetto",
                 "repo": "example-robot-data",
-                "stars": 290
+                "stars": 290,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1032,12 +1471,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1048,12 +1495,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  Set of robot URDFs for benchmarking and developed examples.",
+                "homepage": null,
                 "id": 205108859,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T09:52:27Z",
+                "open_issues": 14,
                 "owner": "Gepetto",
                 "repo": "example-robot-data",
-                "stars": 290
+                "stars": 290,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1064,12 +1516,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+                "homepage": "https://mujoco.org",
                 "id": 400501136,
                 "language": "C++",
-                "last_commit": "2026-08-28T18:16:06Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T21:31:54Z",
+                "open_issues": 354,
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 14748
+                "stars": 14758,
+                "topics": [
+                  "mujoco",
+                  "physics",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1080,12 +1541,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rigid body model of a simple humanoid robot. Model available : urdf + srdf",
+                "homepage": null,
                 "id": 68588833,
                 "language": "CMake",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-11-10T14:27:01Z",
+                "open_issues": 0,
                 "owner": "laas",
                 "repo": "simple_humanoid_description",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "ros"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1096,12 +1564,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "We are implementing differentiable models of robot manipulators, which allows us to learn typically assumed to be known models of robots for control and motion planning. ",
+                "homepage": null,
                 "id": 300462600,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-22T18:30:01Z",
+                "open_issues": 14,
                 "owner": "facebookresearch",
                 "repo": "differentiable-robot-model",
-                "stars": 265
+                "stars": 265,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             }
@@ -1119,12 +1592,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Materials for the ability hand API, including documentation, URDF, Matlab, & Python examples. ",
+                "homepage": "https://www.psyonic.io/",
                 "id": 468087319,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-18T17:29:32Z",
+                "open_issues": 10,
                 "owner": "psyonicinc",
                 "repo": "ability-hand-api",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "api",
+                  "docs",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1135,12 +1617,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Materials for the ability hand API, including documentation, URDF, Matlab, & Python examples. ",
+                "homepage": "https://www.psyonic.io/",
                 "id": 468087319,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-18T17:29:32Z",
+                "open_issues": 10,
                 "owner": "psyonicinc",
                 "repo": "ability-hand-api",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "api",
+                  "docs",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1151,12 +1642,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1167,12 +1666,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1183,12 +1690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "https://shop.tetheria.ai/",
+                "homepage": "https://tetheria.github.io/aero-hand-open/",
                 "id": 1071825013,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-03T17:19:40Z",
+                "open_issues": 2,
                 "owner": "TetherIA",
                 "repo": "aero-hand-open",
-                "stars": 918
+                "stars": 918,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1199,12 +1711,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "https://shop.tetheria.ai/",
+                "homepage": "https://tetheria.github.io/aero-hand-open/",
                 "id": 1071825013,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-03T17:19:40Z",
+                "open_issues": 2,
                 "owner": "TetherIA",
                 "repo": "aero-hand-open",
-                "stars": 918
+                "stars": 918,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1215,12 +1732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shareable model files (urdf/sdf + meshes, etc) for our robotics projects",
+                "homepage": null,
                 "id": 152971074,
                 "language": "Starlark",
+                "license": null,
                 "last_commit": "2026-08-17T10:14:23Z",
+                "open_issues": 7,
                 "owner": "RobotLocomotion",
                 "repo": "models",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1231,12 +1753,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Barrett Hand 280 URDF",
+                "homepage": null,
                 "id": 11130796,
                 "language": null,
+                "license": null,
                 "last_commit": "2013-07-02T17:37:54Z",
+                "open_issues": 0,
                 "owner": "jhu-lcsr-attic",
                 "repo": "bhand_model",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1247,12 +1774,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model for IIT's Dagana gripper",
+                "homepage": null,
                 "id": 563464420,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-29T13:43:23Z",
+                "open_issues": 2,
                 "owner": "ADVRHumanoids",
                 "repo": "iit-dagana-ros-pkg",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1263,12 +1795,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS2 URDF and Visualization for DexHand V1",
+                "homepage": null,
                 "id": 689657680,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-30T16:12:26Z",
+                "open_issues": 2,
                 "owner": "iotdesignshop",
                 "repo": "dexhand_description",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1279,12 +1816,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1295,12 +1840,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Isaac Gym repository for LEAP Hand V1",
+                "homepage": "http://leaphand.com/",
                 "id": 690100134,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-18T18:48:48Z",
+                "open_issues": 1,
                 "owner": "leap-hand",
                 "repo": "LEAP_Hand_Sim",
-                "stars": 204
+                "stars": 204,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1311,12 +1861,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1327,12 +1885,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS1 URDF description package for Schunk grippers",
+                "homepage": null,
                 "id": 805281593,
                 "language": "CMake",
+                "license": "GPL-3.0",
                 "last_commit": "2024-06-07T07:30:00Z",
+                "open_issues": 0,
                 "owner": "SCHUNK-SE-Co-KG",
                 "repo": "schunk_description",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1343,12 +1906,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS1 URDF description package for Schunk grippers",
+                "homepage": null,
                 "id": 805281593,
                 "language": "CMake",
+                "license": "GPL-3.0",
                 "last_commit": "2024-06-07T07:30:00Z",
+                "open_issues": 0,
                 "owner": "SCHUNK-SE-Co-KG",
                 "repo": "schunk_description",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1359,12 +1927,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS1 URDF description package for Schunk grippers",
+                "homepage": null,
                 "id": 805281593,
                 "language": "CMake",
+                "license": "GPL-3.0",
                 "last_commit": "2024-06-07T07:30:00Z",
+                "open_issues": 0,
                 "owner": "SCHUNK-SE-Co-KG",
                 "repo": "schunk_description",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1375,12 +1948,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS1 URDF description package for Schunk grippers",
+                "homepage": null,
                 "id": 805281593,
                 "language": "CMake",
+                "license": "GPL-3.0",
                 "last_commit": "2024-06-07T07:30:00Z",
+                "open_issues": 0,
                 "owner": "SCHUNK-SE-Co-KG",
                 "repo": "schunk_description",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1391,12 +1969,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS1 and ROS2 driver for the Schunk SVH robotic hand",
+                "homepage": null,
                 "id": 610710481,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T08:58:32Z",
+                "open_issues": 10,
                 "owner": "SCHUNK-SE-Co-KG",
                 "repo": "schunk_svh_ros_driver",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1407,12 +1990,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shareable model files (urdf/sdf + meshes, etc) for our robotics projects",
+                "homepage": null,
                 "id": 152971074,
                 "language": "Starlark",
+                "license": null,
                 "last_commit": "2026-08-17T10:14:23Z",
+                "open_issues": 7,
                 "owner": "RobotLocomotion",
                 "repo": "models",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1423,12 +2011,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1439,12 +2035,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1455,12 +2059,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D-printed parallel gripper compatible with Feetech STS3215 and Waveshare ST3215 servos. Ready-to-use solution for the SO-ARM 100/SO-ARM 101.",
+                "homepage": "https://robonine.com",
                 "id": 1009151893,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-24T11:21:19Z",
+                "open_issues": 3,
                 "owner": "roboninecom",
                 "repo": "SO-ARM100-101-Parallel-Gripper",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "3d-printing",
+                  "feetech",
+                  "gripper",
+                  "lerobot",
+                  "manipulator",
+                  "open-source-robotics",
+                  "parallel-gripper",
+                  "roboarm",
+                  "robotic-arm",
+                  "robotics",
+                  "so-arm100",
+                  "so-arm101"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1471,12 +2093,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D-printed parallel gripper compatible with Feetech STS3215 and Waveshare ST3215 servos. Ready-to-use solution for the SO-ARM 100/SO-ARM 101.",
+                "homepage": "https://robonine.com",
                 "id": 1009151893,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-24T11:21:19Z",
+                "open_issues": 3,
                 "owner": "roboninecom",
                 "repo": "SO-ARM100-101-Parallel-Gripper",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "3d-printing",
+                  "feetech",
+                  "gripper",
+                  "lerobot",
+                  "manipulator",
+                  "open-source-robotics",
+                  "parallel-gripper",
+                  "roboarm",
+                  "robotic-arm",
+                  "robotics",
+                  "so-arm100",
+                  "so-arm101"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1487,12 +2127,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             }
@@ -1510,12 +2158,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1526,12 +2182,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The reinforcement learning training code for AgiBot X1.",
+                "homepage": "https://www.zhiyuan-robot.com/products/X1",
                 "id": 877059051,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-23T04:00:36Z",
+                "open_issues": 10,
                 "owner": "AgibotTech",
                 "repo": "agibot_x1_train",
-                "stars": 1698
+                "stars": 1698,
+                "topics": [
+                  "open-source",
+                  "reinforcement-learning",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1542,12 +2207,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1558,12 +2231,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shareable model files (urdf/sdf + meshes, etc) for our robotics projects",
+                "homepage": null,
                 "id": 152971074,
                 "language": "Starlark",
+                "license": null,
                 "last_commit": "2026-08-17T10:14:23Z",
+                "open_issues": 7,
                 "owner": "RobotLocomotion",
                 "repo": "models",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1574,12 +2252,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DEPRECATED: Open-source software for robot simulation, integrated with OpenAI Gym.",
+                "homepage": null,
                 "id": 91389763,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-02T11:37:04Z",
+                "open_issues": 83,
                 "owner": "openai",
                 "repo": "roboschool",
-                "stars": 2169
+                "stars": 2169,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1590,12 +2273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 846754567,
                 "language": "OpenSCAD",
+                "license": null,
                 "last_commit": "2024-08-23T22:13:52Z",
+                "open_issues": 0,
                 "owner": "HybridRobotics",
                 "repo": "berkeley_humanoid_description",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1606,12 +2294,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1622,12 +2318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Booster Gym is a reinforcement learning (RL) framework designed for humanoid robot locomotion developed by Booster Robotics.",
+                "homepage": null,
                 "id": 900659795,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-23T05:23:51Z",
+                "open_issues": 3,
                 "owner": "BoosterRobotics",
                 "repo": "booster_gym",
-                "stars": 300
+                "stars": 300,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1638,12 +2339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URDF and Meshes for the Agility Robotics Digit Robot ",
+                "homepage": null,
                 "id": 370631833,
                 "language": "Julia",
+                "license": null,
                 "last_commit": "2023-08-23T14:50:42Z",
+                "open_issues": 1,
                 "owner": "adubredu",
                 "repo": "DigitRobot.jl",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1654,12 +2360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URDF description of the Draco3 humanoid model",
+                "homepage": null,
                 "id": 604670674,
                 "language": null,
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-02-21T20:52:53Z",
+                "open_issues": 0,
                 "owner": "shbang91",
                 "repo": "draco3_description",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1670,12 +2381,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "descriptions files of bxi robot models",
+                "homepage": "https://bxirobotics.com",
                 "id": 956960050,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-03T15:52:44Z",
+                "open_issues": 0,
                 "owner": "bxirobotics",
                 "repo": "robot_descriptions",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "bxi",
+                  "urdf-descriptions"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1686,12 +2405,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Main collector of ergoCub specific SW",
+                "homepage": "https://mesh-iit.github.io/ergocub-software/",
                 "id": 554302047,
                 "language": "MATLAB",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T07:59:34Z",
+                "open_issues": 24,
                 "owner": "mesh-iit",
                 "repo": "ergocub-software",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1702,12 +2426,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1718,12 +2450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1280107294,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-28T09:04:44Z",
+                "open_issues": 2,
                 "owner": "gbionics",
                 "repo": "gb-robot-models",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1734,12 +2471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1280107294,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-28T09:04:44Z",
+                "open_issues": 2,
                 "owner": "gbionics",
                 "repo": "gb-robot-models",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1750,12 +2492,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 807539348,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-13T08:41:13Z",
+                "open_issues": 1,
                 "owner": "FFTAI",
                 "repo": "Wiki-GRx-Models",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1766,12 +2513,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 807539348,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-13T08:41:13Z",
+                "open_issues": 1,
                 "owner": "FFTAI",
                 "repo": "Wiki-GRx-Models",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1782,12 +2534,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS packages for GUNDAM robots",
+                "homepage": null,
                 "id": 174115505,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-08-28T01:05:02Z",
+                "open_issues": 1,
                 "owner": "gundam-global-challenge",
                 "repo": "gundam_robot",
-                "stars": 195
+                "stars": 195,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1798,12 +2555,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1814,12 +2579,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official URDF and SDF models of the iCub humanoid robot. ",
+                "homepage": null,
                 "id": 90643613,
                 "language": "CMake",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-02-26T14:55:58Z",
+                "open_issues": 53,
                 "owner": "robotology",
                 "repo": "icub-models",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "gazebo",
+                  "gazebo-models",
+                  "gazebo-simulator",
+                  "icub",
+                  "ros",
+                  "urdf",
+                  "yarp"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1830,12 +2608,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Robot models for OpenRAVE",
+                "homepage": null,
                 "id": 59568856,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-05-14T15:39:27Z",
+                "open_issues": 0,
                 "owner": "stephane-caron",
                 "repo": "openrave_models",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "openrave",
+                  "robot",
+                  "robot-description",
+                  "robot-model"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1846,12 +2634,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JVRC1 model files for MuJoCo",
+                "homepage": null,
                 "id": 406629031,
                 "language": "CMake",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-03-24T16:22:48Z",
+                "open_issues": 0,
                 "owner": "isri-aist",
                 "repo": "jvrc_mj_description",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1862,12 +2655,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microban is an affordable, fully 3D-printable, and 100% open-source humanoid robot. Powered by a Raspberry Pi Zero 2W and 19 Dynamixel servomotors, it serves as an accessible DIY platform for learning, experimentation, and research in robotics.",
+                "homepage": null,
                 "id": 1230832604,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T00:16:10Z",
+                "open_issues": 0,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 221
+                "stars": 225,
+                "topics": [
+                  "diy",
+                  "electronics",
+                  "engineering",
+                  "humanoid-robot",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1878,12 +2682,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microban is an affordable, fully 3D-printable, and 100% open-source humanoid robot. Powered by a Raspberry Pi Zero 2W and 19 Dynamixel servomotors, it serves as an accessible DIY platform for learning, experimentation, and research in robotics.",
+                "homepage": null,
                 "id": 1230832604,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T00:16:10Z",
+                "open_issues": 0,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 221
+                "stars": 225,
+                "topics": [
+                  "diy",
+                  "electronics",
+                  "engineering",
+                  "humanoid-robot",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1894,12 +2709,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 807539348,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-13T08:41:13Z",
+                "open_issues": 1,
                 "owner": "FFTAI",
                 "repo": "Wiki-GRx-Models",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1910,12 +2730,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 807539348,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-13T08:41:13Z",
+                "open_issues": 1,
                 "owner": "FFTAI",
                 "repo": "Wiki-GRx-Models",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1926,12 +2751,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 25249395,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-08-08T11:26:53Z",
+                "open_issues": 15,
                 "owner": "ros-naoqi",
                 "repo": "nao_robot",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1942,12 +2772,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "project to install nao_meshes that are contained in nao_meshes_installer",
+                "homepage": null,
                 "id": 23344376,
                 "language": "CMake",
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-03T11:22:45Z",
+                "open_issues": 3,
                 "owner": "ros-naoqi",
                 "repo": "nao_meshes",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1958,12 +2793,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pre-built URDF files from the open source Robonaut 2 and Valkyrie projects from JSC",
+                "homepage": "https://gkjohnson.github.io/nasa-urdf-robots/example/index.bundle.html",
                 "id": 135928025,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-03-02T00:57:45Z",
+                "open_issues": 13,
                 "owner": "gkjohnson",
                 "repo": "nasa-urdf-robots",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "nasa",
+                  "robonaut",
+                  "robotics",
+                  "robots",
+                  "ros",
+                  "urdf",
+                  "valkyrie"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1974,12 +2822,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS stack for Aldebaran's Romeo robot",
+                "homepage": null,
                 "id": 23698624,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-08-27T16:18:15Z",
+                "open_issues": 4,
                 "owner": "ros-aldebaran",
                 "repo": "romeo_robot",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -1990,12 +2843,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 549474904,
                 "language": "OpenSCAD",
+                "license": "MIT",
                 "last_commit": "2022-10-14T09:53:17Z",
+                "open_issues": 0,
                 "owner": "Rhoban",
                 "repo": "sigmaban_urdf",
-                "stars": 3
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2006,12 +2864,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "TALOS robot data for the Stack-Of-Tasks",
+                "homepage": null,
                 "id": 168350529,
                 "language": "CMake",
+                "license": "LGPL-3.0",
                 "last_commit": "2025-11-24T19:41:22Z",
+                "open_issues": 2,
                 "owner": "stack-of-tasks",
                 "repo": "talos-data",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2022,12 +2885,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2038,12 +2909,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 926431156,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-31T07:04:15Z",
+                "open_issues": 3,
                 "owner": "hshi74",
                 "repo": "toddlerbot",
-                "stars": 751
+                "stars": 751,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2054,12 +2930,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2070,12 +2954,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 926431156,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-31T07:04:15Z",
+                "open_issues": 3,
                 "owner": "hshi74",
                 "repo": "toddlerbot",
-                "stars": 751
+                "stars": 751,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2086,12 +2975,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pre-built URDF files from the open source Robonaut 2 and Valkyrie projects from JSC",
+                "homepage": "https://gkjohnson.github.io/nasa-urdf-robots/example/index.bundle.html",
                 "id": 135928025,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-03-02T00:57:45Z",
+                "open_issues": 13,
                 "owner": "gkjohnson",
                 "repo": "nasa-urdf-robots",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "nasa",
+                  "robonaut",
+                  "robotics",
+                  "robots",
+                  "ros",
+                  "urdf",
+                  "valkyrie"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2102,12 +3004,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Final demo walkman model",
+                "homepage": null,
                 "id": 110574428,
                 "language": "Shell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-02-16T13:31:32Z",
+                "open_issues": 2,
                 "owner": "ADVRHumanoids",
                 "repo": "iit-walkman-ros-pkg",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             }
@@ -2125,12 +3032,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Play with open source, low-cost AI robots with ease 🤖",
+                "homepage": "https://bambot.org",
                 "id": 950065302,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-14T09:49:10Z",
+                "open_issues": 30,
                 "owner": "timqian",
                 "repo": "bambot",
-                "stars": 971
+                "stars": 971,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2141,12 +3053,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 1322748110,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-04T09:34:58Z",
+                "open_issues": 0,
                 "owner": "robot-descriptions",
                 "repo": "halodi-robot-models",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2157,12 +3074,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DEPRECATED: Open-source software for robot simulation, integrated with OpenAI Gym.",
+                "homepage": null,
                 "id": 91389763,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-02T11:37:04Z",
+                "open_issues": 83,
                 "owner": "openai",
                 "repo": "roboschool",
-                "stars": 2169
+                "stars": 2169,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2173,12 +3095,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ginger URDF",
+                "homepage": null,
                 "id": 150865327,
                 "language": "CMake",
+                "license": null,
                 "last_commit": "2019-09-20T07:15:26Z",
+                "open_issues": 0,
                 "owner": "Rayckey",
                 "repo": "GingerURDF",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2189,12 +3116,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2205,12 +3140,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS description package for the Pepper robot customized for mc_rtc usage",
+                "homepage": null,
                 "id": 288070562,
                 "language": "CMake",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-03-15T17:17:01Z",
+                "open_issues": 0,
                 "owner": "jrl-umi3218",
                 "repo": "pepper_description",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2221,12 +3161,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repository of various URDFs and assets needed for robot manipulation",
+                "homepage": null,
                 "id": 254945466,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-10T22:07:33Z",
+                "open_issues": 1,
                 "owner": "ankurhanda",
                 "repo": "robot-assets",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2237,12 +3182,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URDF file of A1 ,R1.",
+                "homepage": null,
                 "id": 843396091,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-24T10:03:24Z",
+                "open_issues": 4,
                 "owner": "userguide-galaxea",
                 "repo": "URDF",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2253,12 +3203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 757340598,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T13:51:48Z",
+                "open_issues": 8,
                 "owner": "RobotnikAutomation",
                 "repo": "robotnik_description",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2269,12 +3224,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 757340598,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T13:51:48Z",
+                "open_issues": 8,
                 "owner": "RobotnikAutomation",
                 "repo": "robotnik_description",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2285,12 +3245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 757340598,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T13:51:48Z",
+                "open_issues": 8,
                 "owner": "RobotnikAutomation",
                 "repo": "robotnik_description",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2301,12 +3266,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URDF description for the Reachy robot",
+                "homepage": "https://www.pollen-robotics.com/",
                 "id": 282515341,
                 "language": "CMake",
+                "license": "Apache-2.0",
                 "last_commit": "2020-11-10T21:11:08Z",
+                "open_issues": 0,
                 "owner": "aubrune",
                 "repo": "reachy_description",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2317,12 +3287,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RBY1 Mobile Manipulator Description",
+                "homepage": "https://github.com/RainbowRobotics/rby1-sdk",
                 "id": 991468599,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-07-03T17:04:06Z",
+                "open_issues": 0,
                 "owner": "uynitsuj",
                 "repo": "rby1_description",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2333,12 +3308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RBY1 Mobile Manipulator Description",
+                "homepage": "https://github.com/RainbowRobotics/rby1-sdk",
                 "id": 991468599,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-07-03T17:04:06Z",
+                "open_issues": 0,
                 "owner": "uynitsuj",
                 "repo": "rby1_description",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2349,12 +3329,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RBY1 Mobile Manipulator Description",
+                "homepage": "https://github.com/RainbowRobotics/rby1-sdk",
                 "id": 991468599,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-07-03T17:04:06Z",
+                "open_issues": 0,
                 "owner": "uynitsuj",
                 "repo": "rby1_description",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2365,12 +3350,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RBY1 Mobile Manipulator Description",
+                "homepage": "https://github.com/RainbowRobotics/rby1-sdk",
                 "id": 991468599,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-07-03T17:04:06Z",
+                "open_issues": 0,
                 "owner": "uynitsuj",
                 "repo": "rby1_description",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2381,12 +3371,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository to store all necessary packages for common manipulator integrations",
+                "homepage": null,
                 "id": 124254731,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2023-11-29T16:47:57Z",
+                "open_issues": 0,
                 "owner": "ridgeback",
                 "repo": "ridgeback_manipulation",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2397,12 +3392,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2413,12 +3416,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2429,12 +3440,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": " URDF description of the Stretch RE1 mobile manipulator",
+                "homepage": null,
                 "id": 627338144,
                 "language": "CMake",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-13T09:59:24Z",
+                "open_issues": 0,
                 "owner": "robot-descriptions",
                 "repo": "stretch_description",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2445,12 +3461,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  Set of robot URDFs for benchmarking and developed examples.",
+                "homepage": null,
                 "id": 205108859,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T09:52:27Z",
+                "open_issues": 14,
                 "owner": "Gepetto",
                 "repo": "example-robot-data",
-                "stars": 290
+                "stars": 290,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2461,12 +3482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 927826452,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-21T21:48:54Z",
+                "open_issues": 0,
                 "owner": "david-dorf",
                 "repo": "perseverance-ingenuity-urdfs",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2477,12 +3503,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             }
@@ -2500,12 +3534,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 423362956,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T14:03:04Z",
+                "open_issues": 65,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1153
+                "stars": 1153,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2516,12 +3555,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 423362956,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T14:03:04Z",
+                "open_issues": 65,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1153
+                "stars": 1153,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2532,12 +3576,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2548,12 +3600,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2564,12 +3624,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 700852158,
                 "language": "CMake",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-02-15T04:14:41Z",
+                "open_issues": 2,
                 "owner": "ANYbotics",
                 "repo": "anymal_d_simple_description",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2580,12 +3645,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 287439935,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T04:55:01Z",
+                "open_issues": 91,
                 "owner": "unitreerobotics",
                 "repo": "unitree_ros",
-                "stars": 1542
+                "stars": 1542,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2596,12 +3666,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 287439935,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T04:55:01Z",
+                "open_issues": 91,
                 "owner": "unitreerobotics",
                 "repo": "unitree_ros",
-                "stars": 1542
+                "stars": 1542,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2612,12 +3687,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2628,12 +3711,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2644,12 +3735,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2660,12 +3759,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 423362956,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T14:03:04Z",
+                "open_issues": 65,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1153
+                "stars": 1153,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2676,12 +3780,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2692,12 +3804,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  Set of robot URDFs for benchmarking and developed examples.",
+                "homepage": null,
                 "id": 205108859,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T09:52:27Z",
+                "open_issues": 14,
                 "owner": "Gepetto",
                 "repo": "example-robot-data",
-                "stars": 290
+                "stars": 290,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2708,12 +3825,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 423362956,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T14:03:04Z",
+                "open_issues": 65,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1153
+                "stars": 1153,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2724,12 +3846,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 267061147,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-02-02T07:29:15Z",
+                "open_issues": 0,
                 "owner": "Derek-TH-Wang",
                 "repo": "mini_cheetah_urdf",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2740,12 +3867,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",
+                "homepage": "http://bulletphysics.org",
                 "id": 1605598,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-22T02:13:14Z",
+                "open_issues": 424,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14703
+                "stars": 14703,
+                "topics": [
+                  "computer-animation",
+                  "game-development",
+                  "kinematics",
+                  "pybullet",
+                  "reinforcement-learning",
+                  "robotics",
+                  "simulation",
+                  "simulator",
+                  "virtual-reality"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2756,12 +3898,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 760898662,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-08T14:42:57Z",
+                "open_issues": 0,
                 "owner": "G-Levine",
                 "repo": "pupper_v3_description",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2772,12 +3919,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  Set of robot URDFs for benchmarking and developed examples.",
+                "homepage": null,
                 "id": 205108859,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T09:52:27Z",
+                "open_issues": 14,
                 "owner": "Gepetto",
                 "repo": "example-robot-data",
-                "stars": 290
+                "stars": 290,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2788,12 +3940,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2804,12 +3964,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spot description package",
+                "homepage": null,
                 "id": 920187983,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-12T13:03:03Z",
+                "open_issues": 0,
                 "owner": "rai-opensource",
                 "repo": "spot_description",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             }
@@ -2827,12 +3992,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Common packages for Boxer, including messages, robot description, and controllers",
+                "homepage": null,
                 "id": 426007835,
                 "language": "CMake",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-09-23T15:24:24Z",
+                "open_issues": 1,
                 "owner": "boxer-cpr",
                 "repo": "boxer",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2843,12 +4013,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 286526640,
                 "language": "CMake",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-04-24T12:55:54Z",
+                "open_issues": 2,
                 "owner": "dingo-cpr",
                 "repo": "dingo",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2859,12 +4034,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Common packages for the Clearpath Husky",
+                "homepage": "http://wiki.ros.org/Robots/Husky",
                 "id": 32733110,
                 "language": "CMake",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-10-01T16:45:31Z",
+                "open_issues": 8,
                 "owner": "husky",
                 "repo": "husky",
-                "stars": 509
+                "stars": 509,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2875,12 +4055,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Common packages for Jackal, including messages, robot description, and controllers",
+                "homepage": null,
                 "id": 18222915,
                 "language": "CMake",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-07-09T21:33:59Z",
+                "open_issues": 1,
                 "owner": "jackal",
                 "repo": "jackal",
-                "stars": 183
+                "stars": 183,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2891,12 +4076,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 757340598,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T13:51:48Z",
+                "open_issues": 8,
                 "owner": "RobotnikAutomation",
                 "repo": "robotnik_description",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2907,12 +4097,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 757340598,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T13:51:48Z",
+                "open_issues": 8,
                 "owner": "RobotnikAutomation",
                 "repo": "robotnik_description",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2923,12 +4118,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 757340598,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T13:51:48Z",
+                "open_issues": 8,
                 "owner": "RobotnikAutomation",
                 "repo": "robotnik_description",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2939,12 +4139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 757340598,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T13:51:48Z",
+                "open_issues": 8,
                 "owner": "RobotnikAutomation",
                 "repo": "robotnik_description",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2955,12 +4160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 757340598,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T13:51:48Z",
+                "open_issues": 8,
                 "owner": "RobotnikAutomation",
                 "repo": "robotnik_description",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2971,12 +4181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Common packages for Ridgeback.",
+                "homepage": null,
                 "id": 38638657,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-11-07T19:02:50Z",
+                "open_issues": 3,
                 "owner": "ridgeback",
                 "repo": "ridgeback",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -2987,12 +4202,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3883
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -3003,12 +4226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example of robots that can be exported with onshape-to-robot tool",
+                "homepage": "https://onshape-to-robot.readthedocs.io/",
                 "id": 258506616,
                 "language": "OpenSCAD",
+                "license": "MIT",
                 "last_commit": "2026-02-02T20:30:34Z",
+                "open_issues": 2,
                 "owner": "Rhoban",
                 "repo": "onshape-to-robot-examples",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -3019,12 +4247,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URDF/Xacro robot models for TRON1 — ROS 1/2, MuJoCo & simulation ready",
+                "homepage": "https://www.limxdynamics.com",
                 "id": 800828236,
                 "language": "CMake",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-10T07:06:20Z",
+                "open_issues": 1,
                 "owner": "limxdynamics",
                 "repo": "tron1-robot-description",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "gazebo",
+                  "limx",
+                  "mujoco",
+                  "robotics",
+                  "ros",
+                  "ros2",
+                  "simulation",
+                  "tron1",
+                  "urdf",
+                  "xacro"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             },
@@ -3035,12 +4279,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URDF/Xacro robot models for TRON1 — ROS 1/2, MuJoCo & simulation ready",
+                "homepage": "https://www.limxdynamics.com",
                 "id": 800828236,
                 "language": "CMake",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-10T07:06:20Z",
+                "open_issues": 1,
                 "owner": "limxdynamics",
                 "repo": "tron1-robot-description",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "gazebo",
+                  "limx",
+                  "mujoco",
+                  "robotics",
+                  "ros",
+                  "ros2",
+                  "simulation",
+                  "tron1",
+                  "urdf",
+                  "xacro"
+                ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
             }
@@ -3062,12 +4322,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome robots that are open source",
+            "homepage": null,
             "id": 485431774,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-03T07:58:45Z",
+            "open_issues": 0,
             "owner": "stephane-caron",
             "repo": "awesome-open-source-robots",
-            "stars": 286
+            "stars": 286,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "open-source",
+              "open-source-robots",
+              "robotics",
+              "robots"
+            ]
           },
           "first_seen": "2026-08-28T18:50:48.666Z"
         },
@@ -3078,12 +4350,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. ",
+            "homepage": null,
             "id": 424941534,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-05T18:21:25Z",
+            "open_issues": 0,
             "owner": "gbionics",
             "repo": "awesome-urdf",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "urdf",
+              "urdf-descriptions",
+              "urdf-model",
+              "urdf-models",
+              "urdf-parser",
+              "urdf-visualizer"
+            ]
           },
           "first_seen": "2026-08-28T18:50:48.666Z"
         }
@@ -3092,15 +4378,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:50:48.666Z",
+    "last_updated": "2026-08-29T04:29:54.396Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome robot descriptions (URDF, MJCF)",
+      "homepage": null,
       "id": 478093237,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-04T09:53:46Z",
+      "open_issues": 3,
       "owner": "robot-descriptions",
       "repo": "awesome-robot-descriptions",
-      "stars": 1642
+      "stars": 1644,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "biped",
+        "humanoid",
+        "legged-robots",
+        "mjcf",
+        "quadruped",
+        "robot",
+        "robotics",
+        "urdf",
+        "urdf-descriptions",
+        "urdf-models"
+      ]
     },
     "original_repository_sha": "aad489f75a7e7e85f6a5ae49bb6dc86c32b62a7d",
     "enhanced_repository": "enhansome/enhansome-robot-descriptions",
