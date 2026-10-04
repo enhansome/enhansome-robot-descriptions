@@ -684,7 +684,7 @@
                 "open_issues": 88,
                 "owner": "TheRobotStudio",
                 "repo": "SO-ARM100",
-                "stars": 7643,
+                "stars": 7649,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -819,7 +819,7 @@
                 "open_issues": 45,
                 "owner": "ros-industrial",
                 "repo": "universal_robot",
-                "stars": 1417,
+                "stars": 1419,
                 "topics": [
                   "moveit",
                   "ros-industrial",
@@ -1728,7 +1728,7 @@
                 "open_issues": 111,
                 "owner": "learnsyslab",
                 "repo": "gym-pybullet-drones",
-                "stars": 2150,
+                "stars": 2151,
                 "topics": [
                   "betaflight",
                   "control",
@@ -1878,11 +1878,11 @@
                 "id": 400501136,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T10:30:42Z",
-                "open_issues": 309,
+                "last_commit": "2026-10-04T12:25:41Z",
+                "open_issues": 310,
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 15441,
+                "stars": 15456,
                 "topics": [
                   "mujoco",
                   "physics",
@@ -2056,7 +2056,7 @@
                 "open_issues": 1,
                 "owner": "Chestnut-Robotics",
                 "repo": "aero-hand-open",
-                "stars": 976,
+                "stars": 979,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -2077,7 +2077,7 @@
                 "open_issues": 1,
                 "owner": "Chestnut-Robotics",
                 "repo": "aero-hand-open",
-                "stars": 976,
+                "stars": 979,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -2331,7 +2331,7 @@
                 "id": 610710481,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T06:03:22Z",
+                "last_commit": "2026-10-04T07:40:39Z",
                 "open_issues": 10,
                 "owner": "SCHUNK-SE-Co-KG",
                 "repo": "schunk_svh_ros_driver",
@@ -2425,7 +2425,7 @@
                 "open_issues": 4,
                 "owner": "roboninecom",
                 "repo": "SO-ARM100-101-Parallel-Gripper",
-                "stars": 183,
+                "stars": 184,
                 "topics": [
                   "3d-printing",
                   "feetech",
@@ -2459,7 +2459,7 @@
                 "open_issues": 4,
                 "owner": "roboninecom",
                 "repo": "SO-ARM100-101-Parallel-Gripper",
-                "stars": 183,
+                "stars": 184,
                 "topics": [
                   "3d-printing",
                   "feetech",
@@ -3021,7 +3021,7 @@
                 "open_issues": 1,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 523,
+                "stars": 525,
                 "topics": [
                   "diy",
                   "electronics",
@@ -3048,7 +3048,7 @@
                 "open_issues": 1,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 523,
+                "stars": 525,
                 "topics": [
                   "diy",
                   "electronics",
@@ -3428,7 +3428,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2025-07-14T09:49:10Z",
-                "open_issues": 31,
+                "open_issues": 30,
                 "owner": "timqian",
                 "repo": "bambot",
                 "stars": 978,
@@ -3933,7 +3933,7 @@
                 "open_issues": 65,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1229,
+                "stars": 1230,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -3954,7 +3954,7 @@
                 "open_issues": 65,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1229,
+                "stars": 1230,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -4158,7 +4158,7 @@
                 "open_issues": 65,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1229,
+                "stars": 1230,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -4224,7 +4224,7 @@
                 "open_issues": 65,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1229,
+                "stars": 1230,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -4266,7 +4266,7 @@
                 "open_issues": 432,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14761,
+                "stars": 14763,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -4749,7 +4749,7 @@
             "open_issues": 0,
             "owner": "gbionics",
             "repo": "awesome-urdf",
-            "stars": 165,
+            "stars": 166,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4768,7 +4768,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T11:49:57.394Z",
+    "last_updated": "2026-10-04T12:35:19.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome robot descriptions (URDF, MJCF)",
@@ -4780,7 +4780,7 @@
       "open_issues": 2,
       "owner": "robot-descriptions",
       "repo": "awesome-robot-descriptions",
-      "stars": 1666,
+      "stars": 1667,
       "topics": [
         "awesome",
         "awesome-list",
