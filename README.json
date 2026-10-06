@@ -1878,11 +1878,11 @@
                 "id": 400501136,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:31:13Z",
-                "open_issues": 312,
+                "last_commit": "2026-10-06T12:59:56Z",
+                "open_issues": 309,
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 15479,
+                "stars": 15484,
                 "topics": [
                   "mujoco",
                   "physics",
@@ -2053,7 +2053,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-15T17:57:04Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Chestnut-Robotics",
                 "repo": "aero-hand-open",
                 "stars": 981,
@@ -2074,7 +2074,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-15T17:57:04Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Chestnut-Robotics",
                 "repo": "aero-hand-open",
                 "stars": 981,
@@ -2767,8 +2767,8 @@
                 "id": 554302047,
                 "language": "MATLAB",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T14:41:10Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-06T12:10:20Z",
+                "open_issues": 23,
                 "owner": "mesh-iit",
                 "repo": "ergocub-software",
                 "stars": 14,
@@ -3933,7 +3933,7 @@
                 "open_issues": 65,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1230,
+                "stars": 1231,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -3954,7 +3954,7 @@
                 "open_issues": 65,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1230,
+                "stars": 1231,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -4158,7 +4158,7 @@
                 "open_issues": 65,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1230,
+                "stars": 1231,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -4224,7 +4224,7 @@
                 "open_issues": 65,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1230,
+                "stars": 1231,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -4768,7 +4768,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:33:38.698Z",
+    "last_updated": "2026-10-06T13:26:36.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome robot descriptions (URDF, MJCF)",
