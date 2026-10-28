@@ -60,10 +60,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -84,10 +84,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -255,10 +255,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -423,10 +423,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -468,10 +468,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -518,10 +518,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -542,10 +542,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -569,7 +569,7 @@
                 "open_issues": 2,
                 "owner": "flexivrobotics",
                 "repo": "flexiv_description",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -590,7 +590,7 @@
                 "open_issues": 2,
                 "owner": "flexivrobotics",
                 "repo": "flexiv_description",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -633,10 +633,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -657,10 +657,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -684,7 +684,7 @@
                 "open_issues": 89,
                 "owner": "TheRobotStudio",
                 "repo": "SO-ARM100",
-                "stars": 7894,
+                "stars": 7910,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -702,10 +702,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -726,10 +726,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -744,23 +744,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Open-source leader + follower robot arm kit: 5 DOF + gripper, PET-CF frame, parallel gripper, LeRobot-compatible. STEP/STL, BOM, print and assembly guide.",
+                "description": "An open-source SO-ARM102 robot arm, successor to SO-ARM100 and SO-ARM101. LeRobot-compatible leader-follower kit for teleoperation and imitation learning, with improved rigidity, parallel gripper, STEP/STL files and BOM.",
                 "homepage": "https://robonine.com",
                 "id": 1376769300,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-26T19:13:25Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-27T20:31:08Z",
+                "open_issues": 2,
                 "owner": "roboninecom",
-                "repo": "SO-ARM-102",
-                "stars": 171,
+                "repo": "SO-ARM102",
+                "stars": 173,
                 "topics": [
                   "3d-printing",
+                  "imitation-learning",
                   "lerobot",
                   "open-hardware",
                   "robot-arm",
+                  "robot-learning",
                   "robotics",
-                  "so-arm"
+                  "so-100",
+                  "so-101",
+                  "so-102",
+                  "so-arm",
+                  "so-arm100",
+                  "so-arm101",
+                  "so-arm102",
+                  "teleoperation"
                 ]
               },
               "first_seen": "2026-10-11T13:07:07.084Z"
@@ -768,27 +777,36 @@
             {
               "node_type": "item",
               "title": "CC-BY-4.0",
-              "description": "roboninecom/SO-ARM-102",
+              "description": "roboninecom/SO-ARM102",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Open-source leader + follower robot arm kit: 5 DOF + gripper, PET-CF frame, parallel gripper, LeRobot-compatible. STEP/STL, BOM, print and assembly guide.",
+                "description": "An open-source SO-ARM102 robot arm, successor to SO-ARM100 and SO-ARM101. LeRobot-compatible leader-follower kit for teleoperation and imitation learning, with improved rigidity, parallel gripper, STEP/STL files and BOM.",
                 "homepage": "https://robonine.com",
                 "id": 1376769300,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-26T19:13:25Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-27T20:31:08Z",
+                "open_issues": 2,
                 "owner": "roboninecom",
-                "repo": "SO-ARM-102",
-                "stars": 171,
+                "repo": "SO-ARM102",
+                "stars": 173,
                 "topics": [
                   "3d-printing",
+                  "imitation-learning",
                   "lerobot",
                   "open-hardware",
                   "robot-arm",
+                  "robot-learning",
                   "robotics",
-                  "so-arm"
+                  "so-100",
+                  "so-101",
+                  "so-102",
+                  "so-arm",
+                  "so-arm100",
+                  "so-arm101",
+                  "so-arm102",
+                  "teleoperation"
                 ]
               },
               "first_seen": "2026-10-11T13:07:07.084Z"
@@ -827,10 +845,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -920,10 +938,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -971,10 +989,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -1069,11 +1087,11 @@
                 "id": 287439935,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-27T11:53:44Z",
+                "last_commit": "2026-10-28T03:31:35Z",
                 "open_issues": 96,
                 "owner": "unitreerobotics",
                 "repo": "unitree_ros",
-                "stars": 1615,
+                "stars": 1618,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -1122,7 +1140,7 @@
                 "open_issues": 3,
                 "owner": "rimim",
                 "repo": "AWD",
-                "stars": 103,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -1161,10 +1179,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -1184,7 +1202,7 @@
                 "id": 800828236,
                 "language": "CMake",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T08:10:39Z",
+                "last_commit": "2026-10-28T07:42:33Z",
                 "open_issues": 0,
                 "owner": "limxdynamics",
                 "repo": "tron1-robot-description",
@@ -1219,7 +1237,7 @@
                 "id": 800828236,
                 "language": "CMake",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T08:10:39Z",
+                "last_commit": "2026-10-28T07:42:33Z",
                 "open_issues": 0,
                 "owner": "limxdynamics",
                 "repo": "tron1-robot-description",
@@ -1275,7 +1293,7 @@
                 "id": 800828236,
                 "language": "CMake",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T08:10:39Z",
+                "last_commit": "2026-10-28T07:42:33Z",
                 "open_issues": 0,
                 "owner": "limxdynamics",
                 "repo": "tron1-robot-description",
@@ -1310,7 +1328,7 @@
                 "id": 800828236,
                 "language": "CMake",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T08:10:39Z",
+                "last_commit": "2026-10-28T07:42:33Z",
                 "open_issues": 0,
                 "owner": "limxdynamics",
                 "repo": "tron1-robot-description",
@@ -1346,7 +1364,7 @@
                 "language": "CMake",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-27T06:57:38Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "limxdynamics",
                 "repo": "tron2-robot-description",
                 "stars": 17,
@@ -1381,7 +1399,7 @@
                 "language": "CMake",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-27T06:57:38Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "limxdynamics",
                 "repo": "tron2-robot-description",
                 "stars": 17,
@@ -1465,7 +1483,7 @@
                 "id": 800828236,
                 "language": "CMake",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T08:10:39Z",
+                "last_commit": "2026-10-28T07:42:33Z",
                 "open_issues": 0,
                 "owner": "limxdynamics",
                 "repo": "tron1-robot-description",
@@ -1500,7 +1518,7 @@
                 "id": 800828236,
                 "language": "CMake",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T08:10:39Z",
+                "last_commit": "2026-10-28T07:42:33Z",
                 "open_issues": 0,
                 "owner": "limxdynamics",
                 "repo": "tron1-robot-description",
@@ -1536,7 +1554,7 @@
                 "language": "CMake",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-27T06:57:38Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "limxdynamics",
                 "repo": "tron2-robot-description",
                 "stars": 17,
@@ -1571,7 +1589,7 @@
                 "language": "CMake",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-27T06:57:38Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "limxdynamics",
                 "repo": "tron2-robot-description",
                 "stars": 17,
@@ -1634,7 +1652,7 @@
                 "language": "CMake",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-27T06:57:38Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "limxdynamics",
                 "repo": "tron2-robot-description",
                 "stars": 17,
@@ -1738,7 +1756,7 @@
                 "id": 688834067,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T09:44:19Z",
+                "last_commit": "2026-10-28T04:06:10Z",
                 "open_issues": 3,
                 "owner": "rt-net",
                 "repo": "sciurus17_description",
@@ -1812,7 +1830,7 @@
                 "open_issues": 112,
                 "owner": "learnsyslab",
                 "repo": "gym-pybullet-drones",
-                "stars": 2189,
+                "stars": 2191,
                 "topics": [
                   "betaflight",
                   "control",
@@ -1845,10 +1863,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -1918,10 +1936,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -1962,11 +1980,11 @@
                 "id": 400501136,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T11:28:36Z",
-                "open_issues": 296,
+                "last_commit": "2026-10-28T12:59:55Z",
+                "open_issues": 292,
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 15920,
+                "stars": 15936,
                 "topics": [
                   "mujoco",
                   "physics",
@@ -2089,10 +2107,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2113,10 +2131,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2140,7 +2158,7 @@
                 "open_issues": 4,
                 "owner": "Chestnut-Robotics",
                 "repo": "aero-hand-open",
-                "stars": 1036,
+                "stars": 1040,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -2161,7 +2179,7 @@
                 "open_issues": 4,
                 "owner": "Chestnut-Robotics",
                 "repo": "aero-hand-open",
-                "stars": 1036,
+                "stars": 1040,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -2263,10 +2281,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2308,10 +2326,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2415,7 +2433,7 @@
                 "id": 610710481,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-27T06:00:51Z",
+                "last_commit": "2026-10-28T06:00:46Z",
                 "open_issues": 11,
                 "owner": "SCHUNK-SE-Co-KG",
                 "repo": "schunk_svh_ros_driver",
@@ -2458,10 +2476,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2482,10 +2500,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2496,33 +2514,41 @@
             {
               "node_type": "item",
               "title": "Xacro",
-              "description": "roboninecom/SO-ARM100-101-Parallel-Gripper",
+              "description": "roboninecom/SO-ARM100-101-102-Parallel-Gripper",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "3D-printed parallel gripper compatible with Feetech STS3215 and Waveshare ST3215 servos. Ready-to-use solution for the SO-ARM 100/SO-ARM 101.",
+                "description": "Open-source 3D-printed parallel gripper for SO-ARM100, SO-100, SO-ARM101, SO-101, SO-ARM-102 robot arms. Feetech STS3215, 84 mm stroke, camera mounts, STL files, BOM and assembly guide.",
                 "homepage": "https://robonine.com",
                 "id": 1009151893,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-20T17:52:38Z",
+                "last_commit": "2026-10-28T11:55:23Z",
                 "open_issues": 4,
                 "owner": "roboninecom",
-                "repo": "SO-ARM100-101-Parallel-Gripper",
-                "stars": 197,
+                "repo": "SO-ARM100-101-102-Parallel-Gripper",
+                "stars": 199,
                 "topics": [
+                  "3d-printed",
                   "3d-printing",
-                  "feetech",
+                  "end-effector",
                   "gripper",
                   "lerobot",
                   "manipulator",
                   "open-source-robotics",
                   "parallel-gripper",
                   "roboarm",
+                  "robot-gripper",
                   "robotic-arm",
                   "robotics",
+                  "so-100",
+                  "so-101",
+                  "so-arm",
+                  "so-arm-100",
+                  "so-arm-101",
                   "so-arm100",
-                  "so-arm101"
+                  "so-arm101",
+                  "so-arm102"
                 ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -2530,33 +2556,41 @@
             {
               "node_type": "item",
               "title": "GPL-3.0",
-              "description": "roboninecom/SO-ARM100-101-Parallel-Gripper",
+              "description": "roboninecom/SO-ARM100-101-102-Parallel-Gripper",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "3D-printed parallel gripper compatible with Feetech STS3215 and Waveshare ST3215 servos. Ready-to-use solution for the SO-ARM 100/SO-ARM 101.",
+                "description": "Open-source 3D-printed parallel gripper for SO-ARM100, SO-100, SO-ARM101, SO-101, SO-ARM-102 robot arms. Feetech STS3215, 84 mm stroke, camera mounts, STL files, BOM and assembly guide.",
                 "homepage": "https://robonine.com",
                 "id": 1009151893,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-20T17:52:38Z",
+                "last_commit": "2026-10-28T11:55:23Z",
                 "open_issues": 4,
                 "owner": "roboninecom",
-                "repo": "SO-ARM100-101-Parallel-Gripper",
-                "stars": 197,
+                "repo": "SO-ARM100-101-102-Parallel-Gripper",
+                "stars": 199,
                 "topics": [
+                  "3d-printed",
                   "3d-printing",
-                  "feetech",
+                  "end-effector",
                   "gripper",
                   "lerobot",
                   "manipulator",
                   "open-source-robotics",
                   "parallel-gripper",
                   "roboarm",
+                  "robot-gripper",
                   "robotic-arm",
                   "robotics",
+                  "so-100",
+                  "so-101",
+                  "so-arm",
+                  "so-arm-100",
+                  "so-arm-101",
                   "so-arm100",
-                  "so-arm101"
+                  "so-arm101",
+                  "so-arm102"
                 ]
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -2574,10 +2608,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2605,10 +2639,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2654,10 +2688,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2741,10 +2775,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2852,7 +2886,7 @@
                 "language": "MATLAB",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-06T12:10:20Z",
-                "open_issues": 23,
+                "open_issues": 21,
                 "owner": "mesh-iit",
                 "repo": "ergocub-software",
                 "stars": 14,
@@ -2873,10 +2907,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -3002,10 +3036,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -3101,11 +3135,11 @@
                 "id": 1230832604,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T00:04:15Z",
+                "last_commit": "2026-10-28T12:56:20Z",
                 "open_issues": 1,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 628,
+                "stars": 637,
                 "topics": [
                   "diy",
                   "electronics",
@@ -3128,11 +3162,11 @@
                 "id": 1230832604,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T00:04:15Z",
+                "last_commit": "2026-10-28T12:56:20Z",
                 "open_issues": 1,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 628,
+                "stars": 637,
                 "topics": [
                   "diy",
                   "electronics",
@@ -3366,10 +3400,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -3393,7 +3427,7 @@
                 "open_issues": 3,
                 "owner": "hshi74",
                 "repo": "toddlerbot",
-                "stars": 794,
+                "stars": 795,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -3411,10 +3445,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -3438,7 +3472,7 @@
                 "open_issues": 3,
                 "owner": "hshi74",
                 "repo": "toddlerbot",
-                "stars": 794,
+                "stars": 795,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -3597,10 +3631,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -3873,10 +3907,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -3897,10 +3931,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -3984,10 +4018,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4018,7 +4052,7 @@
                 "open_issues": 68,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1265,
+                "stars": 1267,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -4039,7 +4073,7 @@
                 "open_issues": 68,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1265,
+                "stars": 1267,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -4057,10 +4091,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4081,10 +4115,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4125,11 +4159,11 @@
                 "id": 287439935,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-27T11:53:44Z",
+                "last_commit": "2026-10-28T03:31:35Z",
                 "open_issues": 96,
                 "owner": "unitreerobotics",
                 "repo": "unitree_ros",
-                "stars": 1615,
+                "stars": 1618,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -4146,11 +4180,11 @@
                 "id": 287439935,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-27T11:53:44Z",
+                "last_commit": "2026-10-28T03:31:35Z",
                 "open_issues": 96,
                 "owner": "unitreerobotics",
                 "repo": "unitree_ros",
-                "stars": 1615,
+                "stars": 1618,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -4168,10 +4202,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4192,10 +4226,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4216,10 +4250,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4243,7 +4277,7 @@
                 "open_issues": 68,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1265,
+                "stars": 1267,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -4261,10 +4295,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4309,7 +4343,7 @@
                 "open_issues": 68,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1265,
+                "stars": 1267,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -4348,10 +4382,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T21:51:41Z",
-                "open_issues": 436,
+                "open_issues": 437,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14820,
+                "stars": 14822,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -4421,10 +4455,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4683,10 +4717,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T23:08:31Z",
-                "open_issues": 56,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4273,
+                "stars": 4276,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4727,7 +4761,7 @@
                 "id": 800828236,
                 "language": "CMake",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T08:10:39Z",
+                "last_commit": "2026-10-28T07:42:33Z",
                 "open_issues": 0,
                 "owner": "limxdynamics",
                 "repo": "tron1-robot-description",
@@ -4762,7 +4796,7 @@
                 "id": 800828236,
                 "language": "CMake",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T08:10:39Z",
+                "last_commit": "2026-10-28T07:42:33Z",
                 "open_issues": 0,
                 "owner": "limxdynamics",
                 "repo": "tron1-robot-description",
@@ -4859,7 +4893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T12:27:35.194Z",
+    "last_updated": "2026-10-28T13:14:12.474Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome robot descriptions (URDF, MJCF)",
