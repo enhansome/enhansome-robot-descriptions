@@ -63,7 +63,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -87,7 +87,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -258,7 +258,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -426,7 +426,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -471,7 +471,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -521,7 +521,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -545,7 +545,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -636,7 +636,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -660,7 +660,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -684,7 +684,7 @@
                 "open_issues": 93,
                 "owner": "TheRobotStudio",
                 "repo": "SO-ARM100",
-                "stars": 8120,
+                "stars": 8125,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -705,7 +705,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -729,7 +729,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -848,7 +848,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -941,7 +941,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -992,7 +992,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -1091,7 +1091,7 @@
                 "open_issues": 98,
                 "owner": "unitreerobotics",
                 "repo": "unitree_ros",
-                "stars": 1642,
+                "stars": 1643,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -1182,7 +1182,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -1830,7 +1830,7 @@
                 "open_issues": 111,
                 "owner": "learnsyslab",
                 "repo": "gym-pybullet-drones",
-                "stars": 2208,
+                "stars": 2210,
                 "topics": [
                   "betaflight",
                   "control",
@@ -1866,7 +1866,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -1939,7 +1939,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -1980,11 +1980,11 @@
                 "id": 400501136,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T17:42:32Z",
-                "open_issues": 410,
+                "last_commit": "2026-11-15T04:54:37Z",
+                "open_issues": 416,
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 17932,
+                "stars": 18038,
                 "topics": [
                   "mujoco",
                   "physics",
@@ -2110,7 +2110,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2134,7 +2134,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2158,7 +2158,7 @@
                 "open_issues": 4,
                 "owner": "Chestnut-Robotics",
                 "repo": "aero-hand-open",
-                "stars": 1102,
+                "stars": 1104,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -2179,7 +2179,7 @@
                 "open_issues": 4,
                 "owner": "Chestnut-Robotics",
                 "repo": "aero-hand-open",
-                "stars": 1102,
+                "stars": 1104,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -2284,7 +2284,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2329,7 +2329,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2433,7 +2433,7 @@
                 "id": 610710481,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-14T06:00:51Z",
+                "last_commit": "2026-11-15T06:00:53Z",
                 "open_issues": 12,
                 "owner": "SCHUNK-SE-Co-KG",
                 "repo": "schunk_svh_ros_driver",
@@ -2479,7 +2479,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2503,7 +2503,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2527,7 +2527,7 @@
                 "open_issues": 4,
                 "owner": "roboninecom",
                 "repo": "SO-ARM100-101-102-Parallel-Gripper",
-                "stars": 208,
+                "stars": 209,
                 "topics": [
                   "3d-printed",
                   "3d-printing",
@@ -2569,7 +2569,7 @@
                 "open_issues": 4,
                 "owner": "roboninecom",
                 "repo": "SO-ARM100-101-102-Parallel-Gripper",
-                "stars": 208,
+                "stars": 209,
                 "topics": [
                   "3d-printed",
                   "3d-printing",
@@ -2611,7 +2611,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2642,7 +2642,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2666,7 +2666,7 @@
                 "open_issues": 11,
                 "owner": "AgibotTech",
                 "repo": "agibot_x1_train",
-                "stars": 1702,
+                "stars": 1703,
                 "topics": [
                   "open-source",
                   "reinforcement-learning",
@@ -2691,7 +2691,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2778,7 +2778,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -2910,7 +2910,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -3039,7 +3039,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -3139,7 +3139,7 @@
                 "open_issues": 1,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 685,
+                "stars": 689,
                 "topics": [
                   "diy",
                   "electronics",
@@ -3166,7 +3166,7 @@
                 "open_issues": 1,
                 "owner": "Rhoban",
                 "repo": "microban",
-                "stars": 685,
+                "stars": 689,
                 "topics": [
                   "diy",
                   "electronics",
@@ -3403,7 +3403,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -3448,7 +3448,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -3550,7 +3550,7 @@
                 "open_issues": 29,
                 "owner": "timqian",
                 "repo": "bambot",
-                "stars": 978,
+                "stars": 979,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -3634,7 +3634,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -3910,7 +3910,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -3934,7 +3934,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4021,7 +4021,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4094,7 +4094,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4118,7 +4118,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4163,7 +4163,7 @@
                 "open_issues": 98,
                 "owner": "unitreerobotics",
                 "repo": "unitree_ros",
-                "stars": 1642,
+                "stars": 1643,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -4184,7 +4184,7 @@
                 "open_issues": 98,
                 "owner": "unitreerobotics",
                 "repo": "unitree_ros",
-                "stars": 1642,
+                "stars": 1643,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:48.666Z"
@@ -4205,7 +4205,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4229,7 +4229,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4253,7 +4253,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4298,7 +4298,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4385,7 +4385,7 @@
                 "open_issues": 444,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14860,
+                "stars": 14865,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -4458,7 +4458,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4720,7 +4720,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4367,
+                "stars": 4373,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -4846,7 +4846,7 @@
             "open_issues": 0,
             "owner": "stephane-caron",
             "repo": "awesome-open-source-robots",
-            "stars": 325,
+            "stars": 326,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4874,7 +4874,7 @@
             "open_issues": 1,
             "owner": "gbionics",
             "repo": "awesome-urdf",
-            "stars": 167,
+            "stars": 168,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4893,7 +4893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T13:40:37.301Z",
+    "last_updated": "2026-11-15T14:07:44.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome robot descriptions (URDF, MJCF)",
